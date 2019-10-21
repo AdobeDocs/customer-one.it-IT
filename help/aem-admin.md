@@ -4,7 +4,7 @@ seo-title: Adobe Experience Manager - Prossima nuova esperienza di supporto
 description: Adobe Experience Manager - Prossima nuova esperienza di supporto
 seo-description: Adobe Experience Manager - Prossima nuova esperienza di supporto
 translation-type: tm+mt
-source-git-commit: ad33e1f36bfb8a697fa34a3cc01c55799eb58e8f
+source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 
 ---
 
@@ -13,27 +13,25 @@ source-git-commit: ad33e1f36bfb8a697fa34a3cc01c55799eb58e8f
 
 **21 ottobre 2019**
 
-Stiamo lavorando ad alcuni miglioramenti chiave dell'esperienza di assistenza per i clienti Adobe Experience Manager. Queste modifiche, *che prevediamo di introdurre ad aprile/maggio 2020*, consentiranno alla vostra organizzazione di accedere [!DNL Adobe Customer Support] e fornire maggiore visibilità alla cronologia del vostro servizio tramite un portale di ingresso comune.
+Stiamo lavorando ad alcuni miglioramenti chiave dell'esperienza di supporto per i clienti Adobe Experience Manager e Adobe Campaign. Queste modifiche, che verranno implementate ad aprile/maggio 2020, consentiranno alla vostra organizzazione di accedere [!DNL Adobe Customer Support] e fornire maggiore visibilità alla cronologia del vostro servizio tramite un portale di ingresso comune.
 
-Continueremo a fornire ulteriori informazioni alla tua organizzazione man mano che ci avviciniamo al rollout.
+Continueremo a fornire ulteriori informazioni alla tua organizzazione man mano che ci avviciniamo all'implementazione.
 
 Per iniziare, abbiamo bisogno del vostro aiuto per confermare chi sarà l'amministratore di sistema per conto della vostra organizzazione.
 
 ## AZIONE: Conferma amministratore di sistema (amministratore di sistema)
 
-I dati in nostro possesso indicano che sei un amministratore di sistema **designato all'interno dell'organizzazione**, il responsabile della gestione e dell'invio di richieste di assistenza per questi prodotti Adobe.
+I dati in nostro possesso indicano che sei un amministratore **di** sistema designato all'interno dell'organizzazione, il responsabile della gestione e dell'invio di richieste di assistenza per questi prodotti Adobe.
 
-In qualità di amministratore di sistema, potete accedere al [!DNL Adobe Admin Console Support Tab] che consente di:
+In qualità di amministratore di sistema, potete accedere al [!DNL Adobe Admin Console Support Portal] che consente di:
 
 * Nuove funzioni di gestione dei casi
-* Avviate comodamente conversazioni chat con [!DNL Adobe Customer Care]
+* Avviate comodamente conversazioni chat con [!DNL Adobe Customer Support]
 * Come concedere l'accesso degli utenti al portale
 
->[!NOTE]
->Conferma di accettare questo ruolo (o di fornire un punto di contatto alternativo) come amministratore di sistema della tua organizzazione per i prodotti Adobe Experience Manager/Adobe Campaign completando e inviando il programma [!DNL System Admin Confirmation Form] entro il 4 novembre 2019.\
->Compilando questo modulo, si verificherà l'assegnazione delle credenziali appropriate all'amministratore di sistema designato dall'azienda.
+Conferma di accettare questo ruolo (o di fornire un punto di contatto alternativo) come amministratore di sistema della tua organizzazione per i prodotti Adobe Experience Manager/Adobe Campaign completando e inviando il [[!DNL System Admin Form di conferma]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) entro il 4 novembre 2019.  Compilando questo modulo, si verificherà l'assegnazione delle credenziali appropriate all'amministratore di sistema designato dall'azienda.
 
-Dopo l’invio del modulo, al momento non [!DNL System Admin Confirmation Form]sarà più necessario eseguire ulteriori azioni.  Contatteremo gli amministratori di sistema per i prossimi passi all'inizio del 2020.
+Una conferma e-mail verrà inviata al ricevimento del [[!DNL Modulo di conferma amministratore di sistema]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
 
 Per domande su questa e-mail, contattateci all'indirizzo customercare@adobe.com.
 

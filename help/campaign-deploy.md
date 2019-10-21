@@ -4,7 +4,7 @@ description: La tua nuova esperienza di assistenza clienti Adobe sta arrivando -
 seo-title: La tua nuova esperienza di assistenza clienti Adobe sta arrivando - Contatto per la distribuzione delle campagne
 seo-description: La tua nuova esperienza di assistenza clienti Adobe sta arrivando - Contatto per la distribuzione delle campagne
 translation-type: tm+mt
-source-git-commit: e171b2b32f06834e588c01df39b321c7ce39544a
+source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 
 ---
 
@@ -19,19 +19,17 @@ Per iniziare, abbiamo bisogno del vostro aiuto per confermare chi sarà l'ammini
 
 ## AZIONE: Conferma amministratore di sistema (amministratore di sistema)
 
-I nostri documenti ti hanno identificato come il contatto **principale durante il processo di acquisto originale per i prodotti Adobe Campaign della tua organizzazione**. Di conseguenza, l'utente è elencato come Amministratore di sistema designato, il responsabile della gestione e dell'invio delle richieste di assistenza per questi prodotti Adobe.
+I nostri record ti hanno identificato come il contatto principale durante il processo di acquisto originale per i prodotti Adobe Experience Manager/Adobe Campaign della tua organizzazione. Di conseguenza, l'utente è elencato come Amministratore **** di sistema designato, il responsabile della gestione e dell'invio delle richieste di assistenza per questi prodotti Adobe.
 
-In qualità di amministratore di sistema, potete accedere al [!DNL Adobe Admin Console Support Tab] che consente di:
+In qualità di amministratore di sistema, potete accedere al [!DNL Adobe Admin Console Support Portal] che consente di:
 
 * Nuove funzioni di gestione dei casi
-* Avviate comodamente conversazioni chat con [!DNL Adobe Customer Care]
+* Avviate comodamente conversazioni chat con [!DNL Adobe Customer Support]
 * Come concedere l'accesso degli utenti al portale
 
-Conferma di accettare questo ruolo (o di fornire un punto di contatto alternativo) come amministratore di sistema dell’organizzazione per i prodotti Adobe Experience Manager/Adobe Campaign **completando e inviando il programma[!DNL System Admin Confirmation Form]entro il 4 novembre 2019**.
+Conferma di accettare questo ruolo (o di fornire un punto di contatto alternativo) come amministratore di sistema della tua organizzazione per i prodotti Adobe Experience Manager/Adobe Campaign completando e inviando il [[!DNL System Admin Form di conferma]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) entro il 4 novembre 2019. Compilando questo modulo, l'amministratore di sistema designato della tua organizzazione assegnerà le credenziali appropriate e ci consentirà di fornire ulteriori dettagli per preparare l'organizzazione alle modifiche in arrivo.
 
-Compilando questo modulo, l'amministratore di sistema designato della tua organizzazione assegnerà le credenziali appropriate e ci consentirà di fornire ulteriori dettagli per preparare l'organizzazione alle modifiche in arrivo.
-
-Dopo l’invio del modulo, al momento non [!DNL System Admin Confirmation Form]sarà più necessario eseguire ulteriori azioni.  Contatteremo gli amministratori di sistema confermati per i prossimi passi all'inizio del 2020.
+Una conferma e-mail verrà inviata al ricevimento del [[!DNL Modulo di conferma amministratore di sistema]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
 Per domande su questa e-mail, contattateci all'indirizzo customercare@adobe.com.
 

@@ -4,7 +4,7 @@ seo-title: Adobe Experience Manager - Prossima nuova esperienza di supporto
 description: Adobe Experience Manager - Prossima nuova esperienza di supporto
 seo-description: Adobe Experience Manager - Prossima nuova esperienza di supporto
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 
 ---
 
@@ -29,7 +29,9 @@ In qualità di amministratore di sistema, potete accedere al [!DNL Adobe Admin C
 * Avviate comodamente conversazioni chat con [!DNL Adobe Customer Support]
 * Come concedere l'accesso degli utenti al portale
 
-Conferma di accettare questo ruolo (o di fornire un punto di contatto alternativo) come amministratore di sistema della tua organizzazione per i prodotti Adobe Experience Manager/Adobe Campaign completando e inviando il [[!DNL System Admin Form di conferma]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) entro il 4 novembre 2019.  Compilando questo modulo, si verificherà l'assegnazione delle credenziali appropriate all'amministratore di sistema designato dall'azienda.
+>[!NOTE]
+>Conferma di accettare questo ruolo (o di fornire un punto di contatto alternativo) come amministratore di sistema dell’organizzazione per i prodotti Adobe Experience Manager **completando e inviando il[[!DNL Modulo di conferma amministratore di sistema]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)entro il 4 novembre 2019**.
+>Compilando questo modulo, si verificherà l'assegnazione delle credenziali appropriate all'amministratore di sistema designato dall'azienda.
 
 Una conferma e-mail verrà inviata al ricevimento del [[!DNL Modulo di conferma amministratore di sistema]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6).
 

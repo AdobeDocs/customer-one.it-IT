@@ -4,7 +4,7 @@ description: La tua nuova esperienza di assistenza clienti Adobe sta arrivando -
 seo-title: La tua nuova esperienza di assistenza clienti Adobe sta arrivando - Contatto per la distribuzione delle campagne
 seo-description: La tua nuova esperienza di assistenza clienti Adobe sta arrivando - Contatto per la distribuzione delle campagne
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
 
 ---
 
@@ -27,7 +27,9 @@ In qualità di amministratore di sistema, potete accedere al [!DNL Adobe Admin C
 * Avviate comodamente conversazioni chat con [!DNL Adobe Customer Support]
 * Come concedere l'accesso degli utenti al portale
 
-Conferma di accettare questo ruolo (o di fornire un punto di contatto alternativo) come amministratore di sistema della tua organizzazione per i prodotti Adobe Experience Manager/Adobe Campaign completando e inviando il [[!DNL System Admin Form di conferma]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) entro il 4 novembre 2019. Compilando questo modulo, l'amministratore di sistema designato della tua organizzazione assegnerà le credenziali appropriate e ci consentirà di fornire ulteriori dettagli per preparare l'organizzazione alle modifiche in arrivo.
+>[!NOTE]
+>Conferma di accettare questo ruolo (o di fornire un punto di contatto alternativo) come amministratore di sistema della tua organizzazione per i prodotti Adobe Campaign **completando e inviando il[[!DNL System Admin Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)entro il 4 novembre 2019**.
+>Compilando questo modulo, l'amministratore di sistema designato della tua organizzazione assegnerà le credenziali appropriate e ci consentirà di fornire ulteriori dettagli per preparare l'organizzazione alle modifiche in arrivo.
 
 Una conferma e-mail verrà inviata al ricevimento del [[!DNL Modulo di conferma amministratore di sistema]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 

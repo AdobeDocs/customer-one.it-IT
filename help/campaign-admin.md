@@ -1,15 +1,15 @@
 ---
-title: Campagna - Prossima nuova esperienza di supporto
+title: '[!DNL Campaign] - Prosegue la nuova esperienza di supporto'
 seo-title: Adobe Campaign - È in arrivo una nuova esperienza di supporto aziendale
 description: Adobe Campaign - È in arrivo una nuova esperienza di supporto aziendale
 seo-description: Adobe Campaign - È in arrivo una nuova esperienza di supporto aziendale
 translation-type: tm+mt
-source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
+source-git-commit: c991cbe424e622d24360fcd78640ea3f8079bc84
 
 ---
 
 
-# Campagna - Sta arrivando una nuova esperienza di supporto
+# [!DNL Campaign] - Nuovo supporto in arrivo
 
 **21 ottobre 2019**
 

@@ -1,19 +1,19 @@
 ---
-title: Avvisi campagna
-description: Avvisi campagna per data
-seo-title: Avvisi campagna
-seo-description: Avvisi campagna
+title: '[!DNL Campaign]: avvisi'
+description: '[!DNL Campaign] Avvisi per data'
+seo-title: '[!DNL Campaign]: avvisi'
+seo-description: '[!DNL Campaign]: avvisi'
 translation-type: tm+mt
-source-git-commit: c208ac120427c67965330c5611c14e31d71e3e8b
+source-git-commit: 84c6cffc5b7e9e060731384a6695fded451be3b9
 
 ---
 
 
-# Avvisi campagna
+# [!DNL Campaign] Avvisi
 
 ## Notifiche per i clienti Adobe Campaign, per data.
 
-Elenco completo delle notifiche per i clienti di Campaign
+Elenco completo delle notifiche per [!DNL Campaign] i clienti
 
 * [Notifica amministratore di sistema della campagna, 21 ottobre 2019](campaign-admin.md)
 * [Notifica di distribuzione della campagna Contatti, 21 ottobre 2019](campaign-deploy.md)

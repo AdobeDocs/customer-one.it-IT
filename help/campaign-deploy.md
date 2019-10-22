@@ -1,10 +1,10 @@
 ---
-title: La tua nuova esperienza di assistenza clienti Adobe sta arrivando - Contatto per la distribuzione delle campagne
-description: La tua nuova esperienza di assistenza clienti Adobe sta arrivando - Contatto per la distribuzione delle campagne
-seo-title: La tua nuova esperienza di assistenza clienti Adobe sta arrivando - Contatto per la distribuzione delle campagne
-seo-description: La tua nuova esperienza di assistenza clienti Adobe sta arrivando - Contatto per la distribuzione delle campagne
+title: La nuova esperienza di assistenza clienti Adobe sta arrivando - [!DNL Campaign] distribuisci il contatto
+description: La nuova esperienza di assistenza clienti Adobe sta arrivando - [!DNL Campaign] distribuisci il contatto
+seo-title: La nuova esperienza di assistenza clienti Adobe sta arrivando - [!DNL Campaign] distribuisci il contatto
+seo-description: La nuova esperienza di assistenza clienti Adobe sta arrivando - [!DNL Campaign] distribuisci il contatto
 translation-type: tm+mt
-source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
+source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 

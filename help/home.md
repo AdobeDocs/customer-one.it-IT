@@ -11,11 +11,11 @@ source-git-commit: f76c32d1071bd2a6f573721d73026242d3398da4
 
 # Nuova esperienza di assistenza clienti Adobe
 
-Stiamo lavorando ad alcuni miglioramenti fondamentali dell’esperienza di assistenza per i clienti Adobe Experience Manager e Adobe Campaign.
+Stiamo lavorando ad alcuni miglioramenti chiave dell'esperienza di supporto per i clienti Adobe Experience Manager e Adobe Campaign.
 
-Queste modifiche, che verranno implementate ad aprile/maggio 2020, consentiranno all’organizzazione di accedere a [!DNL Adobe Customer Support] e di fornire maggiore visibilità alla cronologia del servizio tramite un portale di accesso comune.
+Queste modifiche, che verranno implementate ad aprile/maggio 2020, consentiranno alla vostra organizzazione di accedere [!DNL Adobe Customer Support] e fornire maggiore visibilità alla cronologia del vostro servizio tramite un portale di ingresso comune.
 
-Continueremo a fornire ulteriori informazioni alla tua organizzazione man mano che ci avvicineremo al rollout.
+Continueremo a fornire ulteriori informazioni alla tua organizzazione man mano che ci avviciniamo al rollout.
 
 ## Ulteriori informazioni
 

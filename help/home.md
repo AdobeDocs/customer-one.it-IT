@@ -13,7 +13,7 @@ source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 Ci occupiamo dei nostri clienti e stiamo lavorando per facilitare l&#39;assistenza clienti di Adobe quando i nostri clienti hanno bisogno di assistenza, a partire dai prodotti Adobe Experience Manager e Campaign. Il nostro obiettivo è di semplificare l&#39;esperienza di supporto passando a un portale entry-level moderno, il portale di supporto di Adobe Admin Console. Prevediamo di introdurre tali modifiche nel maggio 2020.  Una volta trascorso il periodo di validità, l&#39;azienda potrà accedere all&#39;Assistenza clienti Adobe; avere una maggiore visibilità nella cronologia del servizio attraverso un portale di ingresso comune; e richiedere assistenza via telefono, web e chat attraverso un unico portale.
 
-Continueremo a fornire ulteriori informazioni alla tua organizzazione man mano che ci avvicineremo al rollout.
+Continueremo a fornire ulteriori informazioni alla tua organizzazione man mano che ci avviciniamo al rollout.
 
 ## Ulteriori informazioni
 
@@ -46,4 +46,4 @@ Gli amministratori di sistema di supporto fungeranno da super utenti nell&#39;Ad
 * Adobe annuncia il lancio del nuovo sistema
 * I clienti iniziano a utilizzare il nuovo sistema
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+Per domande su questa e-mail, contattateci all&#39;indirizzo [customercare@adobe.com](mailto:customercare@adobe.com).

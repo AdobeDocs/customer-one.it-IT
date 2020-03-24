@@ -1,14 +1,26 @@
 ---
 source-git-commit: 30844dc968b7d94b2cb29d92917a08f6cf322144
-translation-type: tm+mt
+translation-type: ht
 
 ---
-# Licenza MIT
+# MIT License
 
-© Copyright 2018 Adobe. Tutti i diritti riservati.
+© Copyright 2018 Adobe. All rights reserved.
 
-È concessa, gratuitamente, l'autorizzazione a qualsiasi persona che ottenga una copia di questo software e dei relativi file di documentazione (il "Software"), a trattare il Software senza restrizioni, compresi, tra l'altro, i diritti di utilizzare, copiare, modificare, unire, pubblicare, distribuire, sublicenza e/o vendere copie del Software, e a consentire alle persone a cui il Software è fornito di farlo, fatte salve le seguenti condizioni:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-L'avviso di copyright di cui sopra e l'avviso di autorizzazione sono inclusi in tutte le copie o in parti sostanziali del Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIA DI QUALSIASI TIPO, ESPRESSAMENTE ORIENTATO, COMPRESE MA NON LIMITATE ALLE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEL DIRITTO D'AUTORE DEVONO ESSERE RESPONSABILI DI QUALSIASI RIVENDICAZIONE, DANNO O ALTRA RESPONSABILITÀ, SIA IN UN'AZIONE DI CONTRATTO, TRATTAMENTO O ALTRO, DERIVANTE DAL SOFTWARE, DALL'USO O DA ALTRE OPERAZIONI DEL SOFTWARE.
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

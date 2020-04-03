@@ -7,39 +7,40 @@ source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 ---
 
 
-# Nuova esperienza di assistenza clienti Adobe
+# Nuova esperienza di accesso all’Assistenza clienti Adobe
 
-Ci occupiamo dei nostri clienti e stiamo lavorando per facilitare l&#39;assistenza clienti di Adobe quando i nostri clienti hanno bisogno di assistenza, a partire dai prodotti Adobe Experience Manager e Campaign. Il nostro obiettivo è di semplificare l&#39;esperienza di supporto passando a un portale entry-level moderno, il portale di supporto di Adobe Admin Console. Prevediamo di introdurre tali modifiche nel maggio 2020. Una volta trascorso il periodo di validità, l&#39;azienda potrà accedere all&#39;Assistenza clienti Adobe; avere una maggiore visibilità nella cronologia del servizio attraverso un portale di ingresso comune; e richiedere assistenza via telefono, web e chat attraverso un unico portale.
+Ci preoccupiamo dei nostri clienti e ci stiamo adoperando per consentire ai nostri clienti di accedere più facilmente all’Assistenza clienti Adobe in caso di necessità, a partire dai prodotti Adobe Experience Manager e Campaign. Per semplificare l’esperienza di accesso all’assistenza clienti, abbiamo deciso di implementare un nuovo portale di accesso: Adobe Admin Console Support Portal. Prevediamo di distribuire questo nuovo portale nel mese di maggio 2020. Quando questo portale comune sarà online, le organizzazioni potranno accedere all’Assistenza clienti Adobe, avere un quadro completo di tutte le richieste effettuate e richiedere assistenza tramite telefono, web e chat.
 
 ## Ulteriori informazioni
 
-A febbraio e marzo, Adobe configurerà sia i nuovi amministratori del sistema di supporto che gli utenti del supporto in questo portale. Se i dati in nostro possesso indicano che al momento agisci come amministratore del sistema di supporto nell&#39;Admin Console di Adobe - o che il tuo nome è stato elencato nel contratto di acquisto come contatto cliente di Adobe per distribuire Adobe Campaign e/o Adobe Experience Manager all&#39;interno dell&#39;organizzazione -, sarai configurato come amministratore del sistema di supporto per la tua organizzazione.
-Gli amministratori di sistema di supporto fungeranno da super utenti nell&#39;Admin Console e visualizzeranno le e-mail generate dal sistema ogni volta che viene creato un nuovo utente di supporto. Inoltre, potranno:
+Nei mesi di febbraio e marzo, Adobe inizierà a configurare i nuovi amministratori di sistema e utenti del servizio di assistenza in questo portale. Se i dati in nostro possesso indicano che al momento sei configurato come amministratore di sistema del servizio di assistenza in Adobe Admin Console oppure il tuo nome è stato indicato nel contratto di acquisto come contatto del cliente di Adobe per l’implementazione di Adobe Campaign e/o Adobe Experience Manager nella tua organizzazione, verrai configurato come amministratore di sistema del servizio di assistenza per la tua organizzazione.
+Gli amministratori di sistema del servizio di assistenza fungeranno da super utenti in Admin Console e visualizzeranno le e-mail generate dal sistema ogni volta che viene creato un nuovo utente del servizio di assistenza. Inoltre, potranno:
 
-* Creazione/rimozione di utenti del supporto nel portale e impostazione dei ruoli di accesso
-* Utilizzate gli strumenti di gestione dei casi per semplificare l&#39;utilizzo dei casi di assistenza con l&#39;assistenza clienti Adobe
-* Avvio pratico delle conversazioni chat con il supporto clienti Adobe
+* Creare e rimuovere utenti del servizio di assistenza nel portale e gestire i ruoli di accesso
+* Usufruire degli strumenti di gestione delle richieste per gestire più facilmente le richieste di assistenza con l’Assistenza clienti Adobe
+* Avviare comodamente conversazioni via chat con l’Assistenza clienti Adobe
 
-## Cosa aspettarsi nei prossimi mesi
+## Cosa succederà nei prossimi mesi
 
-### Febbraio - Configurazione utente
+### Febbraio - Configurazione degli utenti
 
-* Adobe per configurare l&#39;amministratore di sistema noto; Contatti contratto e utenti di supporto noti nel nuovo sistema
-* Messaggi e-mail generati dal sistema inviati: gli utenti configurano e il sistema live solo per la creazione/convalida dell&#39;utente
+* Adobe configurerà nel nuovo sistema l’amministratore di sistema noto, nonché i contatti del contratto e gli utenti del servizio di assistenza noti.
+* Verranno inviati messaggi e-mail generati dal sistema: verranno creati gli utenti e il sistema sarà online solo per la creazione o convalida degli utenti.
 
 
-### Marzo - Convalida utente
+### Marzo - Convalida degli utenti
 
-* Per contattare l&#39;amministratore di sistema/Contatti per contratti con i passaggi successivi, contattare l&#39;amministratore di sistema/Contatti per convalidare gli utenti del supporto esistenti e creare eventuali utenti del supporto mancanti nel nuovo sistema
+* Adobe contatterà l’amministratore di sistema e i contatti del contratto per comunicare i passaggi successivi
+L’amministratore di sistema e i contatti del contratto dovranno convalidare gli utenti del servizio di assistenza esistenti e creare gli eventuali utenti mancanti nel nuovo sistema.
 
 ### Aprile - Attivazione
 
-* Adobe fornirà materiali didattici a tutti gli utenti del sistema di supporto
-* Contatti amministratore di sistema/contratto per finalizzare la configurazione utente e i ruoli di supporto
+* Adobe fornirà materiale didattico a tutti gli utenti del servizio di assistenza.
+* L’amministratore di sistema e i contatti del contratto dovranno finalizzare la configurazione e i ruoli degli utenti del servizio di assistenza.
 
-### May - Launch!
+### Maggio - Lancio
 
-* Adobe annuncia il lancio del nuovo sistema
-* I clienti iniziano a utilizzare il nuovo sistema
+* Adobe annuncerà il lancio del nuovo sistema.
+* I clienti inizieranno a utilizzare il nuovo sistema.
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+Per domande su questa e-mail, contattaci all’indirizzo [customercare@adobe.com](mailto:customercare@adobe.com).

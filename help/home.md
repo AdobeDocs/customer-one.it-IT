@@ -1,50 +1,50 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Nuova esperienza di accesso all’Assistenza clienti Adobe
-seo-description: Nuova esperienza di accesso all’Assistenza clienti Adobe
+description: Nuova esperienza di assistenza clienti Adobe
+seo-description: Nuova esperienza di assistenza clienti Adobe
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: ht
-source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
+translation-type: tm+mt
+source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 
 ---
 
 
-# Nuova esperienza di accesso all’Assistenza clienti Adobe
+# Nuova esperienza di assistenza clienti Adobe
 
-Ci preoccupiamo dei nostri clienti e ci stiamo adoperando per consentire ai nostri clienti di accedere più facilmente all’Assistenza clienti Adobe in caso di necessità, a partire dai prodotti Adobe Experience Manager e Campaign. Per semplificare l’esperienza di accesso all’assistenza clienti, abbiamo deciso di implementare un nuovo portale di accesso: Adobe Admin Console Support Portal. Prevediamo di distribuire questo nuovo portale nel mese di maggio 2020. Quando questo portale comune sarà online, le organizzazioni potranno accedere all’Assistenza clienti Adobe, avere un quadro completo di tutte le richieste effettuate e richiedere assistenza tramite telefono, web e chat.
+## Siamo lieti di annunciare il lancio del portale di supporto Adobe Admin Console in aprile/maggio 2020!
 
-Continueremo ad aggiornare le organizzazioni via via che ci avvicineremo alla data di rollout.
+Come precedentemente condiviso, stiamo lavorando per migliorare il modo in cui interagisci con il supporto clienti Adobe, a partire dai prodotti Adobe Experience Manager e Campaign. Il nostro obiettivo è semplificare l&#39;esperienza di supporto spostandosi su un singolo punto di ingresso, utilizzando Adobe Admin Console. Una volta trascorso il periodo di validità, l&#39;azienda potrà accedere facilmente all&#39;Assistenza clienti Adobe; avere una maggiore visibilità nella cronologia del servizio attraverso un sistema comune tra i prodotti; e richiedere assistenza via telefono, web e chat attraverso questo unico portale.
 
 ## Ulteriori informazioni
 
-Nei mesi di febbraio e marzo, Adobe inizierà a configurare i nuovi amministratori di sistema e utenti del servizio di assistenza in questo portale. Se i dati in nostro possesso indicano che al momento sei configurato come amministratore di sistema del servizio di assistenza in Adobe Admin Console oppure il tuo nome è stato indicato nel contratto di acquisto come contatto del cliente di Adobe per l’implementazione di Adobe Campaign e/o Adobe Experience Manager nella tua organizzazione, verrai configurato come amministratore di sistema del servizio di assistenza per la tua organizzazione.
+* Farai parte della nuova esperienza il 27 aprile o l&#39;11 maggio
+* I clienti riceveranno 2 e-mail da Adobe con istruzioni aggiuntive (10 giorni prima e il giorno del Go-Live) per avvisarvi del giorno in cui potrete iniziare a inviare i biglietti
+* Dopo l’11 maggio, i sistemi legacy di gestione dei casi dei clienti Adobe Experience Manager e Campaign saranno disattivati e i clienti verranno reindirizzati a questa pagina per ulteriori informazioni
+* I casi dei clienti aperti al momento di Go-Live verranno migrati nel nuovo sistema per facilitare la chiusura
 
-Gli amministratori di sistema del servizio di assistenza fungeranno da super utenti in Admin Console e visualizzeranno le e-mail generate dal sistema ogni volta che viene creato un nuovo utente del servizio di assistenza. Inoltre, potranno:
+## Azioni cliente richieste
 
-* Creare e rimuovere utenti del servizio di assistenza nel portale e gestire i ruoli di accesso
-* Usufruire degli strumenti di gestione delle richieste per gestire più facilmente le richieste di assistenza con l’Assistenza clienti Adobe
-* Avviare comodamente conversazioni via chat con l’Assistenza clienti Adobe
+1. Consulta la Guida [introduttiva](https://helpx.adobe.com/enterprise/get-started.html) e la Guida [utente per l’abilitazione di Admin Console](https://helpx.adobe.com/enterprise/managing/user-guide.html)
+1. Accedi ad [Admin Console](https://adminconsole.adobe.com/) e verifica di avere accesso
+1. Se siete un amministratore di sistema, controllate e convalidate gli utenti del supporto all&#39;interno dell&#39;organizzazione per verificare la precisione (queste pagine guida aiuteranno: [Gestione degli utenti](https://helpx.adobe.com/enterprise/using/users.html) e [Gestione degli account](https://helpx.adobe.com/enterprise/using/accounts.html)Team)
 
-## Cosa succederà nei prossimi mesi
+## Hai bisogno di aiuto?
 
-### Febbraio - Configurazione degli utenti
+Dopo Go-Live, se si verificano problemi e non è possibile accedere al nuovo strumento, sono disponibili le seguenti opzioni:
 
-* Adobe configurerà nel nuovo sistema l’amministratore di sistema noto, nonché i contatti del contratto e gli utenti del servizio di assistenza noti.
-* Verranno inviati messaggi e-mail generati dal sistema: verranno creati gli utenti e il sistema sarà online solo per la creazione o convalida degli utenti.
+### Opzione 1: E-mail
 
-### Marzo - Convalida degli utenti
+Inviaci un&#39;e-mail a [customercare@adobe.com](mailto:customercare@adobe.com) e includi:
 
-* Adobe contatterà l’amministratore di sistema e i contatti del contratto per comunicare i passaggi successivi
-L’amministratore di sistema e i contatti del contratto dovranno convalidare gli utenti del servizio di assistenza esistenti e creare gli eventuali utenti mancanti nel nuovo sistema.
+* Contatti: Nome, indirizzo e-mail, telefono
+* Nome società
+* Prodotto Adobe di proprietà
+* Priorità problema
+* Breve descrizione del problema
 
-### Aprile - Attivazione
+### Opzione 2: Prima dell&#39;11 maggio
 
-* Adobe fornirà materiale didattico a tutti gli utenti del servizio di assistenza.
-* L’amministratore di sistema e i contatti del contratto dovranno finalizzare la configurazione e i ruoli degli utenti del servizio di assistenza.
+Prima dell&#39;11 maggio è comunque possibile utilizzare i sistemi legacy di gestione dei casi Extranet [di](https://support.neolane.net/webApp/extranetLogin) Campaign o [Experience Manager Daycare](https://daycare.day.com/home.html) .  Dopo l&#39;11 maggio, verrai reindirizzato all&#39; [Admin Console](https://adminconsole.adobe.com/) in quanto questi sistemi verranno disattivati in quel momento.
 
-### Maggio - Lancio
 
-* Adobe annuncerà il lancio del nuovo sistema.
-* I clienti inizieranno a utilizzare il nuovo sistema.
-
-Per domande su questa e-mail, contattaci all’indirizzo [customercare@adobe.com](mailto:customercare@adobe.com).
+For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).

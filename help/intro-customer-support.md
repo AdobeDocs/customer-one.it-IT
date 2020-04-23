@@ -1,7 +1,7 @@
 ---
-title: Presentazione della nuova esperienza di assistenza clienti Adobe
+title: Annuncio relativo alla nuova esperienza di Assistenza clienti Adobe
 description: Prima comunicazione con i clienti per una nuova esperienza di assistenza
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 ---

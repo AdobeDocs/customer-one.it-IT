@@ -1,13 +1,13 @@
 ---
-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-seo-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-seo-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-translation-type: tm+mt
+title: 'Nuova esperienza di accesso all’Assistenza clienti Adobe disponibile a breve - Contatto per l’implementazione di  [!DNL Campaign] '
+description: 'Nuova esperienza di accesso all’Assistenza clienti Adobe disponibile a breve - Contatto per l’implementazione di  [!DNL Campaign] '
+seo-title: 'Nuova esperienza di accesso all’Assistenza clienti Adobe disponibile a breve - Contatto per l’implementazione di  [!DNL Campaign] '
+seo-description: 'Nuova esperienza di accesso all’Assistenza clienti Adobe disponibile a breve - Contatto per l’implementazione di  [!DNL Campaign] '
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

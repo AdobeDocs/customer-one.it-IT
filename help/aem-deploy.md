@@ -3,9 +3,9 @@ title: Nuova esperienza di accesso all’Assistenza clienti Adobe disponibile a 
 description: Nuova esperienza di accesso all’Assistenza clienti Adobe disponibile a breve - Contatto per l’implementazione di AEM
 seo-title: Nuova esperienza di accesso all’Assistenza clienti Adobe disponibile a breve - Contatto per l’implementazione di AEM
 seo-description: Nuova esperienza di accesso all’Assistenza clienti Adobe disponibile a breve - Contatto per l’implementazione di AEM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
 ht-degree: 100%
 

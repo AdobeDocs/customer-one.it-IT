@@ -3,9 +3,9 @@ title: AEM - Nuova esperienza di accesso all’Assistenza clienti disponibile a 
 seo-title: Adobe Experience Manager - Nuova esperienza di accesso all’Assistenza clienti disponibile a breve
 description: Adobe Experience Manager - Nuova esperienza di accesso all’Assistenza clienti disponibile a breve
 seo-description: Adobe Experience Manager - Nuova esperienza di accesso all’Assistenza clienti disponibile a breve
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
 ht-degree: 100%
 

@@ -3,9 +3,9 @@ title: '[!DNL Campaign] - Nuova esperienza di accesso all’Assistenza clienti d
 seo-title: Adobe Campaign - Nuova esperienza di accesso all’Assistenza clienti Enterprise disponibile a breve
 description: Adobe Campaign - Nuova esperienza di accesso all’Assistenza clienti Enterprise disponibile a breve
 seo-description: Adobe Campaign - Nuova esperienza di accesso all’Assistenza clienti Enterprise disponibile a breve
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
 

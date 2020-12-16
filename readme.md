@@ -1,9 +1,9 @@
 ---
 source-git-commit: 1d53198c1bcb2d7f613b35324ace7f6d596b5ab6
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '7'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-# Contenuto della guida per il cliente Uno per l&#39;azienda
+# Contenuto della guida di Customer One for Enterprise

@@ -1,14 +1,14 @@
 ---
 cloud: Experience Cloud
 product: experience cloud
-sub-product: cliente uno
+sub-product: customer one
 audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] Aiuto'
 translation-type: tm+mt
 source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
 workflow-type: tm+mt
 source-wordcount: '8'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 

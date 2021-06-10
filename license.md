@@ -1,16 +1,16 @@
 ---
 source-git-commit: 4279e3fef9ae9cffd623fa65aef5a7f6da0eedee
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '170'
+ht-degree: 100%
 
 ---
 # Licenza MIT
 
 © Copyright 2021 Adobe. All rights reserved.
 
-È concessa, gratuitamente, l’autorizzazione a qualsiasi persona che ottenga una copia di questo software e dei relativi file di documentazione (il “Software”), a trattare il Software senza restrizioni, compresi, tra l’altro, i diritti di utilizzare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza e/o vendere copie del Software, e a consentire alle persone a cui il Software è fornito di farlo, fatte salve le seguenti condizioni:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-L’avviso di copyright di cui sopra e l’avviso di autorizzazione sono inclusi in tutte le copie o in parti sostanziali del Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-IL SOFTWARE VIENE FORNITO “COSÌ COM’È”, SENZA GARANZIA DI QUALSIASI TIPO, ESPRESSA O IMPLICITA, COMPRESE MA NON LIMITATE ALLE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEL COPYRIGHT DEVONO ESSERE RESPONSABILI DI QUALSIASI RECLAMO, DANNO O ALTRA RESPONSABILITÀ, SIA IN UN’AZIONE DI CONTRATTO, TRATTAMENTO O ALTRO, DERIVANTE DAL SOFTWARE, DALL’USO O DI ALTRI RAPPORTI DEL SOFTWARE.
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

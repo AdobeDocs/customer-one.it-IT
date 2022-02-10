@@ -3,10 +3,10 @@ title: Annuncio della nuova esperienza di accesso all’Assistenza clienti di Ad
 description: Comunicazione dei clienti per una nuova esperienza di assistenza
 hide: true
 hidefromtoc: true
-source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
+source-git-commit: d81a6d3edb3ff82e49162db4cd00923e20dba28f
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,7 +38,7 @@ Inoltre, gli amministratori di sistema del servizio di assistenza potranno:
 
 ## Cosa ci si può aspettare dopo
 
-**Febbraio/Marzo - Configurazione degli utenti**
+**Febbraio/Marzo 2022 - Configurazione degli utenti**
 
 * Configurazione di utenti del servizio di assistenza noti nel sistema del portale come amministratori del servizio di assistenza clienti
 * Le e-mail generate dal sistema verranno inviate agli utenti configurati da Adobe
@@ -47,7 +47,7 @@ Inoltre, gli amministratori di sistema del servizio di assistenza potranno:
 >
 >In questa fase, il portale non è ancora attivo per inviare casi di assistenza.
 
-**Aprile - Abilitazione**
+**Aprile 2022 - Attivazione**
 
 * Materiale didattico verrà fornito a tutti gli utenti del sistema del portale
 * Contatti designati/amministratori di sistema per finalizzare la configurazione e i ruoli degli utenti del servizio di assistenza

@@ -1,67 +1,69 @@
 ---
-keywords: supporto Experience Platform;supporto platform;supporto intelligent services; supporto IA analisi clienti; supporto IA attribuzione; supporto rtcdp; inviare ticket di supporto; supporto clienti
+keywords: supporto Experience Platform;supporto piattaforma;supporto servizi intelligenti; assistenza ai clienti; supporto ai di attribuzione; sostegno rtcdp; invia ticket di supporto;supporto clienti
 title: Adobe Experience Cloud Customer One for Enterprise
-description: Nuova esperienza di accesso all’Assistenza clienti Adobe
+description: Nuova esperienza di assistenza clienti Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: acb06781b0e56e6222394b1736fbf8a80ee2aab8
-workflow-type: ht
-source-wordcount: '611'
-ht-degree: 100%
+source-git-commit: b2f78f59e8dd531f723bb488dd84a38bfd0cd10a
+workflow-type: tm+mt
+source-wordcount: '505'
+ht-degree: 2%
 
 ---
 
-# Esperienza di accesso all’Assistenza clienti Adobe
+# Adobe Customer Support Experience
 
-## Ticket di assistenza da Admin Console
+## Ticket di supporto per Admin Console
 
-Ora è possibile inviare i ticket di assistenza tramite [Admin Console](https://adminconsole.adobe.com/). Per sapere come inviare una richiesta di assistenza, consulta la sezione [Come inviare un ticket di supporto da Admin Console](#submit-ticket).
+È ora possibile inviare i ticket di assistenza tramite il [Admin Console](https://adminconsole.adobe.com/). Per istruzioni su come inviare un ticket di assistenza, consulta la sezione per [invio di un ticket di supporto](#submit-ticket).
 
-Come comunicato in precedenza, stiamo lavorando per migliorare l’interazione con l’Assistenza clienti Adobe, a partire dai prodotti Adobe Experience Manager e Campaign. Per semplificare l’esperienza di accesso all’assistenza clienti, abbiamo deciso di implementare un unico punto di accesso: Adobe Admin Console. Quando questo portale comune sarà online, le organizzazioni potranno accedere facilmente all’Assistenza clienti Adobe, avere un quadro completo di tutte le richieste effettuate per i vari prodotti e richiedere assistenza tramite telefono, web e chat.
+Stiamo lavorando per migliorare il modo in cui interagisci con l’Assistenza clienti Adobe. Il nostro obiettivo è quello di semplificare l&#39;esperienza di assistenza passando a un singolo punto di ingresso, utilizzando Adobe Admin Console. Una volta pubblicata, la tua organizzazione sarà in grado di accedere facilmente all’Assistenza clienti Adobe; avere una maggiore visibilità nella cronologia dei servizi attraverso un sistema comune tra i prodotti; e richiedere aiuto tramite telefono, web e chat attraverso un unico portale.
 
-## Come inviare un ticket di supporto da Admin Console {#submit-ticket}
+## Come inviare un ticket di supporto di Admin Console {#submit-ticket}
 
-Per consentirti di inviare un ticket di supporto da [Admin Console](https://adminconsole.adobe.com/), un amministratore di sistema deve averti assegnato il ruolo di Amministratore del supporto. Solo un amministratore di sistema della tua organizzazione può assegnarti questo ruolo. Gli amministratori di prodotti, profili di prodotto e altri non possono assegnare il ruolo di Amministratore del supporto e non hanno accesso all’opzione **[!UICONTROL Crea caso]** che consente di inviare un ticket di supporto. Per ulteriori informazioni, consulta la documentazione dedicata all’[assistenza per clienti Enterprise e Teams](https://helpx.adobe.com/it/enterprise/using/support-and-expert-services.html).
+Per presentare un ticket di supporto in [Admin Console](https://adminconsole.adobe.com/), è necessario che il ruolo di amministratore del supporto sia assegnato da un amministratore di sistema. Solo un amministratore di sistema della tua organizzazione può assegnare questo ruolo. I ruoli di prodotto, profilo di prodotto e altri ruoli amministrativi non possono assegnare il ruolo di amministratore del supporto e non sono in grado di visualizzare il **[!UICONTROL Crea caso]** per inviare un ticket di supporto. Per ulteriori informazioni, visita il [Assistenza clienti aziendale e team](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html) documentazione.
 
-### Assegnare il ruolo di Amministratore del supporto
+### Assegnare il ruolo di amministratore del supporto
 
-Il ruolo di Amministratore del supporto è un ruolo di tipo non amministrativo con accesso alle informazioni relative al supporto. Gli amministratori del supporto possono visualizzare, creare e gestire i rapporti sui problemi.
+Il ruolo di amministratore del supporto è un ruolo non amministrativo con accesso alle informazioni relative al supporto. Gli amministratori del supporto possono visualizzare, creare e gestire i rapporti sui problemi.
 
-Per assegnare il ruolo di amministratore del supporto, segui le istruzioni disponibili nella documentazione sui ruoli di amministratore, nella sezione [Modificare il ruolo di amministratore Enterprise](https://helpx.adobe.com/it/enterprise/using/admin-roles.html#add-admin-teams). Tieni presente che solo un amministratore di sistema della tua organizzazione può assegnarti questo ruolo. Per ulteriori informazioni sulla gerarchia di amministrazione, consulta la documentazione sui [ruoli di amministratore](https://helpx.adobe.com/it/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html).
+Per assegnare il ruolo di amministratore del supporto, segui la [modifica ruolo amministratore organizzazione](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) nella documentazione sui ruoli amministrativi. Solo un amministratore di sistema della tua organizzazione può assegnare questo ruolo. Per ulteriori informazioni sulla gerarchia amministrativa, visita il [ruoli amministrativi](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) documentazione.
 
-### Creare un ticket di supporto in Admin Console
+### Crea un ticket di supporto con Admin Console
 
-Per creare un ticket in [Admin Console](https://adminconsole.adobe.com/), seleziona la scheda **[!UICONTROL Assistenza]** nell’area di navigazione superiore. Viene visualizzata la pagina [!UICONTROL Riepilogo supporto]. Quindi, seleziona l’opzione **[!UICONTROL Crea caso]**.
+Per creare un ticket utilizzando [Admin Console](https://adminconsole.adobe.com/), seleziona **[!UICONTROL Supporto]** nella navigazione superiore. La [!UICONTROL Riepilogo del supporto] viene visualizzata la pagina . Quindi, seleziona la **[!UICONTROL Crea caso]** opzione .
 
 >[!TIP]
 >
-> Se non trovi l’opzione **[!UICONTROL Crea caso]** o la scheda **[!UICONTROL Assistenza]**, rivolgiti all’amministratore di sistema e chiedi che ti assegni il ruolo di Amministratore del supporto.
+> Se non riesci a visualizzare il **[!UICONTROL Crea caso]** oppure **[!UICONTROL Supporto]** per assegnare il ruolo di amministratore del supporto, è necessario contattare un amministratore di sistema.
 
-![Scheda Assistenza in Admin Console](./assets/Support.png)
+![Scheda Supporto Admin Console](./assets/Support.png)
 
-Viene visualizzata una finestra di dialogo in cui puoi specificare il tipo di problema. Seleziona il tipo di problema che meglio descrive il problema o la domanda in questione, quindi seleziona **[!UICONTROL Crea caso]** in basso a destra.
+Viene visualizzata una finestra di dialogo che consente di selezionare un tipo di problema. Seleziona il tipo di problema che meglio descrive il problema o la domanda, quindi seleziona **[!UICONTROL Crea caso]** in basso a destra.
 
-![Selezionare il tipo di problema](./assets/select-case-type.png)
+![Seleziona problema](./assets/select-case-type.png)
 
-Viene visualizzata la finestra di dialogo **[!UICONTROL Crea caso]**. Ti viene chiesto di fornire alcune informazioni come il prodotto, il livello di priorità e una descrizione, e di allegare eventuali schermate che possano illustrare il problema. Seleziona **[!UICONTROL Successivo]** per continuare.
+La **[!UICONTROL Crea caso]** viene visualizzata la finestra di dialogo . Ti viene chiesto di fornire alcune informazioni come il prodotto, la priorità, la descrizione e di allegare eventuali schermate per aiutarti a descrivere il problema. Seleziona **[!UICONTROL Successivo]** per continuare.
 
-![Crea caso](./assets/create_case.png)
+![crea caso](./assets/create_case.png)
 
 >[!NOTE]
 >
-> Se il problema provoca interruzioni estremamente gravi in un sistema di produzione, viene fornito un numero di telefono da chiamare per ricevere assistenza immediata.
+> Se il problema si traduce in interruzioni o interruzioni estremamente gravi di un sistema di produzione, viene fornito un numero di telefono per l&#39;assistenza immediata.
 
-Nella pagina successiva puoi inserire i dati di contatto e specificare il momento migliore in cui l’Assistenza clienti potrà contattarti. Al termine, seleziona **[!UICONTROL Invia]** in basso a destra; il ticket viene inviato all’Assistenza clienti Adobe.
+La pagina successiva ti consente di inserire le informazioni di contatto e di fornire il momento migliore per contattare ad Adobe l’Assistenza clienti. Al termine, seleziona **[!UICONTROL Invia]** in basso a destra e il ticket viene inviato all’Assistenza clienti Adobe.
 
-![Inviare il ticket](./assets/submit_case.png)
+![Invia ticket](./assets/submit_case.png)
 
-## E i sistemi legacy?
+<!--
 
-A partire dall’11 maggio non sarà più possibile inviare nuovi ticket o casi tramite i sistemi legacy. Per inviare nuovi ticket o casi, sarà necessario utilizzare [Admin Console](https://adminconsole.adobe.com/).
+## What About the Legacy Systems?
 
-### Ticket o casi esistenti
+New Tickets/Cases will no longer be able to be submitted in legacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
 
-* Tra l’11 e il 20 maggio i sistemi legacy rimarranno disponibili per consentire il completamento dei ticket o casi esistenti.
-* A partire dal 20 maggio, il team di assistenza eseguirà la migrazione dei casi ancora aperti, trasferendoli dai sistemi legacy alla nuova esperienza di assistenza. Riceverai una notifica e-mail su come contattare l’assistenza per continuare a lavorare a tali casi.
+### Existing Tickets/Cases
 
+* Between May 11th and May 20th the legacy systems will remain available to work existing tickets/cases to completion.
+* Beginning May 20th the support team will migrate remaining open cases from the legacy systems to the new support experience.  You will receive an email notification regarding how to contact support to continue to work these cases.
+-->

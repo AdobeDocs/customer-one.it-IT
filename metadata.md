@@ -1,18 +1,11 @@
 ---
 cloud: Experience Cloud
-solution-title: Informazioni e supporto
-solution-hub-url: https://helpx.adobe.com/it/support/experience-cloud.html
-solution-image: help/assets/experience-cloud-logo-24.png
-getting-started-title: Guida introduttiva
-getting-started-url: https://experienceleague.adobe.com/
-tutorials-title: Esercitazioni
-tutorials-url: https://experienceleague.adobe.com/
-git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.it-IT
+solution: Experience Cloud
+git-repo: https://github.com/AdobeDocs/customer-one.it-IT
 index: false
-translation-type: ht
-source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
-workflow-type: ht
-source-wordcount: '128'
+source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
+workflow-type: tm+mt
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
@@ -25,7 +18,7 @@ Il file metadata.md include metadati a livello di archivio che vengono passati a
 | metadati | azione |
 |--- |--- |
 | solution-title | Utilizzato nell’intestazione dell’articolo come collegamento. |
-| solution-hub-url | Apre la pagina centralizzata helpx. |
+| solution-hub-url | Apre la pagina principale helpx. |
 | solution-icon | Visualizza l’icona della soluzione accanto al titolo della soluzione. Non ancora implementato |
 | getting-started-url | Collegamento alla pagina Guida introduttiva di helpx |
 | tutorials-url | Collegamento alle esercitazioni video: esercitazioni helpx o KT |

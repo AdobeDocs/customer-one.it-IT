@@ -6,7 +6,7 @@ seo-description: Adobe Campaign - New enterprise support experience is coming
 source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Gli amministratori di sistema possono accedere a [!DNL Adobe Admin Console Suppo
 
 >[!NOTE]
 >
->Conferma l’accettazione di questo ruolo (oppure fornisci un punto di contatto alternativo) come amministratore di sistema della tua organizzazione per i prodotti Adobe Campaign **completando e inviando il [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) entro il 4 novembre 2019**.
+>Per confermare l’accettazione di questo ruolo (o fornire un contatto alternativo) come amministratore di sistema della tua organizzazione per i prodotti Adobe Campaign, **completa e invia il [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) entro il 4 novembre 2019**.
 >
 >La compilazione di questo modulo garantirà la corretta assegnazione delle credenziali all’amministratore di sistema designato dall’organizzazione.
 

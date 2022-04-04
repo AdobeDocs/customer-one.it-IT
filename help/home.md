@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '664'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -20,18 +20,18 @@ Ora è possibile inviare i ticket di assistenza tramite [Admin Console](https://
 
 Stiamo lavorando per migliorare le modalità di interazione con l’Assistenza clienti Adobe. Per semplificare l’esperienza di accesso all’assistenza clienti, abbiamo deciso di implementare un unico punto di accesso: Adobe Admin Console. Quando questo portale comune sarà online, le organizzazioni potranno accedere facilmente all’Assistenza clienti Adobe, avere un quadro completo di tutte le richieste effettuate per i vari prodotti e richiedere assistenza tramite telefono, web e chat.
 
-## Hai bisogno di aiuto con la nuova piattaforma di supporto?
+## Ti serve aiuto per la nuova piattaforma di assistenza?
 
-Offriamo una serie di riunioni online in cui i clienti possono porre le loro domande sul nuovo processo di assistenza. Selezionare uno o più elementi da unire:
+Offriamo una serie di riunioni online in cui sarà possibile porre domande sul nuovo processo di assistenza. Per partecipare, seleziona uno o più di questi eventi:
 
-| Data e ora | Collegamento di registrazione |
+| Data e ora | Link per registrarsi |
 |--- |--- |
-| Giovedì 7 aprile alle 8 PT | [Collegamento evento](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
-| Giovedì 7 aprile alle 17.00 PT | [Collegamento evento](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
-| Mercoledì 20 aprile alle 8 PT | [Collegamento evento](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
-| Mercoledì 20 aprile alle 17.00 PT | [Collegamento evento](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
-| Giovedì 21 aprile alle 8 PT | [Collegamento evento](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
-| Giovedì 21 aprile alle 17.00 PT | [Collegamento evento](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
+| Giovedì 7 aprile, 17:00 CET (08:00 PT) | [Link evento](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) |
+| Giovedì 7 aprile, 02:00 CET (17:00 PT) | [Link evento](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) |
+| Mercoledì 20 aprile, 17:00 CET (08:00 PT) | [Link evento](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) |
+| Mercoledì 20 aprile, 02:00 CET (17:00 PT) | [Link evento](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) |
+| Giovedì 21 aprile, 17:00 CET (08:00 PT) | [Link evento](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) |
+| Giovedì 21 aprile, 02:00 CET (17:00 PT) | [Link evento](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) |
 
 {style=&quot;table-layout:auto&quot;}
 

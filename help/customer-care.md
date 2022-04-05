@@ -4,7 +4,7 @@ description: Informazioni su come contattare l’Assistenza clienti Adobe per i 
 source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

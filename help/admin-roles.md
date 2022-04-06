@@ -1,13 +1,13 @@
 ---
 title: Ruoli amministrativi
 description: Utilizzando Adobe Admin Console, le organizzazioni possono definire una gerarchia amministrativa flessibile che consenta una gestione dettagliata dell’accesso e dell’utilizzo dei prodotti Adobe.
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Ruoli amministrativi
 
@@ -45,7 +45,7 @@ _Gerarchia dei ruoli amministratore_
 
 Per un elenco dettagliato delle autorizzazioni e dei privilegi per ogni ruolo di amministratore, vedi [Autorizzazioni](#enterprise-admins-permissions-matrix).
 
-## Aggiungi un amministratore aziendale
+## Aggiungere un ruolo di amministratore organizzazione {#add-enterprise-role}
 
 Si applica a: Clienti aziendali di Adobe.
 

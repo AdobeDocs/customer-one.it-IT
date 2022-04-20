@@ -3,9 +3,9 @@ title: Ruoli di amministrazione
 description: Utilizzando Adobe Admin Console, le organizzazioni possono definire una gerarchia di amministrazione flessibile che consenta di gestire in modo articolato l’accesso e l’utilizzo dei prodotti Adobe.
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1640'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -177,40 +177,40 @@ Nella tabella seguente sono elencate tutte le autorizzazioni per i diversi tipi 
 | Autorizzazione | Amministratore di sistema | Amministratore del supporto |
 |--- |--- |--- |
 | Aggiungere un dominio (richiedere/registrare un dominio) | ✔ |  |
-| Visualizzare i domini e l’elenco di domini | ↓ |  |
-| Gestire le chiavi di crittografia del dominio | ↓ |  |
-| Gestire i criteri predefiniti per le password dell’organizzazione | ↓ |  |
-| Visualizzare i criteri predefiniti per le password dell’organizzazione | ↓ |  |
+| Visualizzare i domini e l’elenco di domini | ✔ |  |
+| Gestire le chiavi di crittografia del dominio | ✔ |  |
+| Gestire i criteri predefiniti per le password dell’organizzazione | ✔ |  |
+| Visualizzare i criteri predefiniti per le password dell’organizzazione | ✔ |  |
 
 ### Gestione degli utenti
 
 | Autorizzazione | Amministratore di sistema | Amministratore del supporto |
 |--- |--- |--- |
-| Aggiungere utenti all’organizzazione | ↓ |  |
-| Rimuovere utenti dall&#39;organizzazione | ↓ |  |
-| Visualizzare dettagli utente ed elenco degli utenti | ↓ |  |
-| Modificare il profilo utente | ↓ |  |
-| Aggiungere profili di prodotto a utenti o gruppi | ↓ |  |
-| Rimuovere profili di prodotto da utenti o gruppi | ↓ |  |
-| Aggiungere profili di prodotto a più utenti | ↓ |  |
-| Visualizzare i profili di prodotto di un utente | ↓ |  |
-| Visualizzare l’elenco degli utenti di un prodotto | ↓ |  |
-| Aggiungere in blocco più utenti all’organizzazione | ↓ |  |
+| Aggiungere utenti all’organizzazione | ✔ |  |
+| Rimuovere utenti dall&#39;organizzazione | ✔ |  |
+| Visualizzare dettagli utente ed elenco degli utenti | ✔ |  |
+| Modificare il profilo utente | ✔ |  |
+| Aggiungere profili di prodotto a utenti o gruppi | ✔ |  |
+| Rimuovere profili di prodotto da utenti o gruppi | ✔ |  |
+| Aggiungere profili di prodotto a più utenti | ✔ |  |
+| Visualizzare i profili di prodotto di un utente | ✔ |  |
+| Visualizzare l’elenco degli utenti di un prodotto | ✔ |  |
+| Aggiungere in blocco più utenti all’organizzazione | ✔ |  |
 
 ### Gestione degli amministratori
 
 | Autorizzazione | Amministratore di sistema | Amministratore del supporto |
 |--- |--- |--- |
-| Assegnare il ruolo di amministratore dell’organizzazione a un utente | ↓ |  |
-| Revocare il ruolo di amministratore dell’organizzazione da un utente | ↓ |  |
-| Assegnare il ruolo di amministratore delle licenze prodotto a un utente | ↓ |  |
-| Revocare il ruolo di amministratore delle licenze prodotto a un utente | ↓ |  |
-| Assegnare il ruolo di amministratore dell’implementazione a un utente | ↓ |  |
-| Revocare il ruolo di amministratore dell’implementazione a un utente | ↓ |  |
-| Assegnate il ruolo di amministratore di un gruppo di utenti a un utente | ↓ |  |
-| Revocare il ruolo di amministratore di un gruppo di utenti da un utente | ↓ |  |
-| Assegnare il ruolo di amministratore dei proprietari di prodotto a un utente | ↓ |  |
-| Revocare il ruolo di amministratore dei proprietari di prodotto a un utente | ↓ |  |
+| Assegnare il ruolo di amministratore dell’organizzazione a un utente | ✔ |  |
+| Revocare il ruolo di amministratore dell’organizzazione da un utente | ✔ |  |
+| Assegnare il ruolo di amministratore delle licenze prodotto a un utente | ✔ |  |
+| Revocare il ruolo di amministratore delle licenze prodotto a un utente | ✔ |  |
+| Assegnare il ruolo di amministratore dell’implementazione a un utente | ✔ |  |
+| Revocare il ruolo di amministratore dell’implementazione a un utente | ✔ |  |
+| Assegnate il ruolo di amministratore di un gruppo di utenti a un utente | ✔ |  |
+| Revocare il ruolo di amministratore di un gruppo di utenti da un utente | ✔ |  |
+| Assegnare il ruolo di amministratore dei proprietari di prodotto a un utente | ✔ |  |
+| Revocare il ruolo di amministratore dei proprietari di prodotto a un utente | ✔ |  |
 
 ### Gestione della configurazione delle licenze di prodotto
 
@@ -218,45 +218,45 @@ Nella tabella seguente sono elencate tutte le autorizzazioni per i diversi tipi 
 |--- |--- |--- |
 | Assegnare i diritti per un prodotto all’organizzazione |  |  |
 | Rimuovere i diritti per un prodotto dall’organizzazione |  |  |
-| Visualizzare il numero totale di licenze di proprietà dell&#39;organizzazione | ↓ |  |
-| Visualizzare i prodotti e le famiglie di prodotti disponibili | ↓ |  |
-| Modificare descrizioni/dati delle licenze di prodotti | ↓ |  |
-| Fornire la licenza di un prodotto a un utente | ↓ |  |
-| Disattivare la licenza di un prodotto per un utente | ↓ |  |
-| Aggiungere una nuova configurazione di licenza di prodotto | ↓ |  |
-| Modificare la configurazione del servizio di licenza di prodotto | ↓ |  |
-| Eliminare la configurazione del servizio di licenza di prodotto | ↓ |  |
-| Rimuovere l&#39;accesso a un prodotto per un utente (eliminare tutte le configurazioni) | ↓ |  |
+| Visualizzare il numero totale di licenze di proprietà dell&#39;organizzazione | ✔ |  |
+| Visualizzare i prodotti e le famiglie di prodotti disponibili | ✔ |  |
+| Modificare descrizioni/dati delle licenze di prodotti | ✔ |  |
+| Fornire la licenza di un prodotto a un utente | ✔ |  |
+| Disattivare la licenza di un prodotto per un utente | ✔ |  |
+| Aggiungere una nuova configurazione di licenza di prodotto | ✔ |  |
+| Modificare la configurazione del servizio di licenza di prodotto | ✔ |  |
+| Eliminare la configurazione del servizio di licenza di prodotto | ✔ |  |
+| Rimuovere l&#39;accesso a un prodotto per un utente (eliminare tutte le configurazioni) | ✔ |  |
 
 ### Gestione dell’archiviazione
 
 | Autorizzazione | Amministratore di sistema | Amministratore del supporto |
 |--- |--- |--- |
-| Visualizzare le cartelle di utenti attivi e inattivi | ↓ |  |
-| Eliminare le cartelle di utenti inattivi e trasferirne il contenuto | ↓ |  |
+| Visualizzare le cartelle di utenti attivi e inattivi | ✔ |  |
+| Eliminare le cartelle di utenti inattivi e trasferirne il contenuto | ✔ |  |
 
 ### Distribuzione
 
 | Autorizzazione | Amministratore di sistema | Amministratore del supporto |
 |--- |--- |--- |
-| Visualizzare/Utilizzare la scheda Pacchetti | ↓ |  |
+| Visualizzare/Utilizzare la scheda Pacchetti | ✔ |  |
 
 ### Supporto
 
 | Autorizzazione | Amministratore di sistema | Amministratore del supporto |
 |--- |--- |--- |
-| Visualizzare scheda Assistenza | ↓ |  |
-| Gestire i casi di supporto | ↓ | ↓ |
+| Visualizzare scheda Assistenza | ✔ |  |
+| Gestire i casi di supporto | ✔ | ✔ |
 
 ### Gestione dei gruppi di utenti
 
 | Autorizzazione | Amministratore di sistema | Amministratore del supporto |
 |--- |--- |--- |
-| Creare un gruppo di utenti | ↓ |  |
-| Rimuovere un gruppo utenti | ↓ |  |
-| Aggiungere un utente a un gruppo di utenti | ↓ |  |
-| Rimuovere un utente da un gruppo di utenti | ↓ |  |
-| Assegnare un gruppo di utenti a una licenza di prodotto | ↓ |  |
-| Rimuovere un gruppo utenti da una licenza di prodotto | ↓ |  |
-| Visualizzare i membri di un gruppo di utenti | ↓ | ↓ |
-| Visualizzare l’elenco dei gruppi di utenti | ↓ | ↓ |
+| Creare un gruppo di utenti | ✔ |  |
+| Rimuovere un gruppo utenti | ✔ |  |
+| Aggiungere un utente a un gruppo di utenti | ✔ |  |
+| Rimuovere un utente da un gruppo di utenti | ✔ |  |
+| Assegnare un gruppo di utenti a una licenza di prodotto | ✔ |  |
+| Rimuovere un gruppo utenti da una licenza di prodotto | ✔ |  |
+| Visualizzare i membri di un gruppo di utenti | ✔ | ✔ |
+| Visualizzare l’elenco dei gruppi di utenti | ✔ | ✔ |

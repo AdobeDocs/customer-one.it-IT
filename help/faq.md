@@ -57,7 +57,7 @@ Vedi [presente documento](overview.md) evidenziando alcune delle nuove funzional
 
 +++**Quali sono le risorse di formazione disponibili per AAC?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/it/enterprise/using/admin-console.html >
 
 +++
 

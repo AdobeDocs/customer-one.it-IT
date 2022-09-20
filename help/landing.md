@@ -16,7 +16,7 @@ Preparati a integrare l’organizzazione in Adobe Admin Console [elenco di contr
 
 * Identifica il Adobe Admin Console desiderato in cui desideri aggiungere Workfront.
 
-   Se disponi già di altri prodotti Adobe, conferma la tua disponibilità ad aggiungere Adobe Workfront al tuo attuale Adobe Admin Console. Per maggiori informazioni, utilizza [questo link](https://helpx.adobe.com/enterprise/using/admin-console.html) per comprendere le best practice per la gestione dei prodotti Adobe.
+   Se disponi già di altri prodotti Adobe, conferma la tua disponibilità ad aggiungere Adobe Workfront al tuo attuale Adobe Admin Console. Per maggiori informazioni, utilizza [questo link](https://helpx.adobe.com/it/enterprise/using/admin-console.html) per comprendere le best practice per la gestione dei prodotti Adobe.
 
 * Fai riferimento alla [link successivo](https://helpx.adobe.com/enterprise/using/deployment-planning.html) per informazioni sulla distribuzione.
 * Se utilizzi Single Sign On, dovrai collegare il nuovo Adobe Admin Console al provider SSO esistente.

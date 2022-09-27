@@ -1,61 +1,61 @@
 ---
 keywords: FAQ;domande frequenti
 title: Domande frequenti su Adobe Business Platform e Admin Console
-description: Domande frequenti per Adobe Workfront
+description: Domande frequenti su Adobe Workfront
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '497'
+ht-degree: 100%
 
 ---
 
 # Domande frequenti su Adobe Business Platform e Admin Console
 
-+++**Qual è l’identità Adobe e l’Admin Console?**
++++**Cosa è Adobe Identity e Admin Console?**
 
-Adobe Business Platform offre agli amministratori e ai leader funzionali una console di controllo all’avanguardia per gestire la versione personalizzata del software Workfront.
-
-+++
-
-+++**Perché i clienti devono passare ad Adobe Identity and Admin Console (AAC)?**
-
-I clienti sperimenteranno una console amministrativa ancora più sicura e intuitiva passando ad Adobe Business Platform.
+Adobe Business Platform offre agli amministratori e ai lead funzionali una console di controllo all’avanguardia per gestire la propria versione personalizzata del software Workfront.
 
 +++
 
-+++**Quando i clienti dovranno passare ad AAC?**
++++**Perché i clienti devono passare ad Adobe Identity e Admin Console (AAC)?**
 
-I clienti saranno contattati per coordinare il loro passaggio all’identità Adobe e all’Admin Console a partire dalla seconda metà del 2022 e proseguire fino al 2023.
+Passando ad Adobe Business Platform, i clienti potranno usare una console amministrativa ancora più sicura e intuitiva.
+
++++
+
++++**Quando si dovrà passare ad AAC?**
+
+I clienti verranno contattati per coordinare il passaggio ad Adobe Identity e Admin Console a partire dalla seconda metà del 2022 e nel 2023.
 
 +++
 
 +++**Cos’è un’organizzazione IMS?**
 
-IMS è un acronimo di Identity Management Services con Adobe Workfront che fa riferimento a ...
+IMS è l’acronimo di Identity Management Services. Per Adobe Workfront questo fa riferimento a...
 
-Un&#39;organizzazione è l&#39;entità che consente all&#39;amministratore di configurare gruppi e utenti e di controllare il single sign-on nell&#39;Experience Cloud. L&#39;organizzazione funziona come un&#39;azienda di accesso che si estende su tutti i prodotti e le applicazioni Experience Cloud. Nella maggior parte dei casi, un&#39;organizzazione è il nome dell&#39;azienda. Tuttavia, un&#39;azienda può avere molte organizzazioni.
-
-+++
-
-+++**Come passeranno i clienti ad AAC?**
-
-I clienti verranno spostati dal team di supporto di Adobe Workfront con assistenza e supporto in tempo reale per garantire che la transizione avvenga senza problemi e rispondere alle domande generali dei clienti.
+Un’organizzazione è l’entità che consente all’amministratore di configurare gruppi e utenti e di controllare l’accesso Single Sign-On in Experience Cloud. L’organizzazione funziona come un’azienda di accesso per tutti i prodotti e tutte le applicazioni Experience Cloud. Nella maggior parte dei casi, l’organizzazione corrisponde al nome dell’azienda. Tuttavia, un’azienda può avere più organizzazioni.
 
 +++
 
-+++**Qual è il processo per passare ad AAC dall’architettura Workfront esistente?**
++++**Come si passerà ad AAC?**
 
-I clienti riceveranno istruzioni e coordinamento da un team Workfront interno assegnato per assistere i clienti nel passaggio.
-
-+++
-
-+++**Quali nuove funzioni sono attualmente disponibili in AAC per i clienti di Workfront?**
-
-Vedi [presente documento](overview.md) evidenziando alcune delle nuove funzionalità aggiunte disponibili.
+Il passaggio verrà gestito dal team di supporto di Adobe Workfront con assistenza e coaching in tempo reale per garantire una transizione fluida e rispondere alle domande generali dei clienti.
 
 +++
 
-+++**Quali sono le risorse di formazione disponibili per AAC?**
++++**Qual è il processo per passare ad AAC dall’attuale architettura di Workfront?**
+
+I clienti riceveranno istruzioni e saranno coordinati da un team Workfront interno incaricato di assistere i clienti nel passaggio.
+
++++
+
++++**Quali nuove funzioni disponibili in AAC non sono attualmente disponibili per i clienti di Workfront?**
+
+Alcune delle nuove funzionalità disponibili sono descritte in [questo documento](overview.md).
+
++++
+
++++**Quali risorse di formazione sono disponibili per AAC?**
 
 &lt;https://helpx.adobe.com/it/enterprise/using/admin-console.html >
 
@@ -67,32 +67,32 @@ SÌ.
 
 +++
 
-+++**Se un cliente ha altri prodotti nella suite Adobe, il passaggio ad AAC consoliderà le console amministrative?**
++++**Se un cliente ha altri prodotti nella suite Adobe, con il passaggio ad AAC verranno consolidate le console di amministrazione?**
 
-Sì! La console di amministrazione è identica in tutti gli Adobi e offre agli amministratori una piattaforma per utilizzare Workfront e quasi tutti gli altri prodotti Adobe.
-
-+++
-
-+++**Quanto tempo ci vuole per passare ad AAC per un tipico cliente Workfront?**
-
-Il tempo necessario per implementare AAC per i clienti può variare, ma l’esperienza tipica avrà un’esperienza live in una chiamata conferenza con un cliente di circa due ore.
+Sì. Tutte le soluzioni Adobe usano la stessa console di amministrazione, che offre agli amministratori una singola piattaforma da utilizzare per Workfront e quasi tutti gli altri prodotti Adobe.
 
 +++
 
-+++**Questo avrà un impatto su altre tecnologie che ho integrato nella soluzione Workfront al di fuori dei prodotti Adobe?**
++++**Quanto tempo richiede il passaggio ad AAC per un tipico cliente di Workfront?**
 
-I clienti che utilizzano l&#39;applicazione Fusion per connettersi ad altri servizi verranno spostati solo quando l&#39;applicazione Fusion è pronta per apportare questa modifica.
-
-+++
-
-+++**È previsto un costo per il passaggio ad AAC da parte dei clienti?**
-
-Non ci saranno costi aggiuntivi per i clienti per il passaggio ad AAC.
+Il tempo necessario per implementare AAC per i clienti può variare, ma solitamente il passaggio avverrà mediante una teleconferenza live con il cliente della durata di circa due ore.
 
 +++
 
-+++**C&#39;è qualche motivo per non trasferirsi all&#39;AAC?**
++++**Avrà un impatto su altre tecnologie integrate nella soluzione Workfront, al di fuori dei prodotti Adobe?**
 
-AAC offrirà ai clienti i migliori aggiornamenti e funzioni avanzate nella futura esperienza di Workfront ed è una grande mossa per i clienti. Tutti i clienti dovranno passare ad AAC entro la fine del 2023, in quanto le console dimostrative legacy verranno disattivate.
+Per i clienti che utilizzano l’applicazione Fusion per connettersi ad altri servizi, il passaggio avverrà solo quando l’applicazione Fusion sarà pronta per tale cambiamento.
+
++++
+
++++**È previsto un costo per il passaggio ad AAC?**
+
+il passaggio ad AAC non comporta costi aggiuntivi per i clienti.
+
++++
+
++++**C’è qualche motivo per non passare ad AAC?**
+
+AAC offre importanti vantaggi ai clienti, con aggiornamenti migliori e funzioni avanzate nella futura esperienza di Workfront. Tutti i clienti dovranno passare ad AAC entro la fine del 2023, in quanto le console dimostrative legacy verranno disattivate.
 
 +++

@@ -3,11 +3,11 @@ cloud: Experience Cloud
 product: experience cloud
 sub-product: customer one
 audience: end-user
-user-guide-title: Aiuto di [!DNL Customer One for Enterprise]
+user-guide-title: '[!DNL Customer One for Enterprise] Aiuto'
 source-git-commit: 89be38209b05b9b836d4487b31cb2e761b8aaf8d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '20'
-ht-degree: 100%
+ht-degree: 15%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 + Documenti di riferimento {#ref-docs}
    + [Annuncio preliminare](intro-customer-support.md)
    + [Annuncio Parkour Now](parkour-now.md)
-+ Documenti su Workfront {#workfront}
++ Documenti Workfront {#workfront}
    + [Panoramica](overview.md)
-   + [Destinazione](landing.md)
+   + [Atterraggio](landing.md)
    + [Domande frequenti](faq.md)

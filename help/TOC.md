@@ -6,8 +6,8 @@ audience: end-user
 user-guide-title: "[!DNL Customer One for Enterprise] Aiuto"
 source-git-commit: b22777eb7d5d4a89fd02328443a10e6132f1160e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '20'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 + Documenti di riferimento {#ref-docs}
    + [Annuncio preliminare](intro-customer-support.md)
    + [Annuncio Parkour Now](parkour-now.md)
-+ Documenti Workfront {#workfront}
++ Documenti su Workfront {#workfront}
    + [Panoramica](overview.md)
-   + [Atterraggio](landing.md)
+   + [Destinazione](landing.md)
    + [Domande frequenti](faq.md)

@@ -5,10 +5,10 @@ description: Nuova esperienza di Assistenza clienti Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 79%
+source-wordcount: '729'
+ht-degree: 78%
 
 ---
 
@@ -60,6 +60,10 @@ L’utente riceve un invito e-mail da `message@adobe.com` relativo alle sue nuov
 L’utente deve fare clic su **Inizia** nell’e-mail per partecipare all’organizzazione. Se non si utilizza il link **Inizia** presente nell’invito e-mail, non sarà possibile accedere ad Admin Console.
 
 Durante il processo di accesso, potrebbe venire richiesto di impostare un profilo Adobe, se non se ne possiede già uno. Se gli utenti hanno più profili associati al loro indirizzo e-mail, devono scegliere **Unisciti al team** (se richiesto) e quindi selezionare il profilo associato alla nuova organizzazione.
+
+![Conferma diritti amministratore](assets/admin-rights-confirmation.png)
+
+Per maggiori dettagli, consulta [modifica ruolo amministratore organizzazione](admin-roles.md#add-enterprise-role) istruzioni nella documentazione sui ruoli amministrativi. Tieni presente che solo un amministratore di sistema della tua organizzazione può assegnarti questo ruolo. Per ulteriori informazioni sulla gerarchia di amministrazione, consulta la documentazione sui [ruoli di amministratore](admin-roles.md).
 
 ### Creare un ticket di supporto in Admin Console
 

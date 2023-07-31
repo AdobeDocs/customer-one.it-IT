@@ -5,10 +5,10 @@ description: Nuova esperienza di Assistenza clienti Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 0544bb44afd2b60f6203084e3a0c5943248e562f
-workflow-type: ht
-source-wordcount: '487'
-ht-degree: 100%
+source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+workflow-type: tm+mt
+source-wordcount: '687'
+ht-degree: 79%
 
 ---
 
@@ -28,7 +28,38 @@ Per consentirti di inviare un ticket di supporto da [Admin Console](https://admi
 
 Il ruolo di Amministratore del supporto è un ruolo di tipo non amministrativo con accesso alle informazioni relative al supporto. Gli amministratori del supporto possono visualizzare, creare e gestire i rapporti sui problemi.
 
-Per assegnare il ruolo di amministratore del supporto, segui le istruzioni disponibili nella documentazione sui ruoli di amministratore, nella sezione [Modificare il ruolo di amministratore Enterprise](admin-roles.md#add-enterprise-role). Tieni presente che solo un amministratore di sistema della tua organizzazione può assegnarti questo ruolo. Per ulteriori informazioni sulla gerarchia di amministrazione, consulta la documentazione sui [ruoli di amministratore](admin-roles.md).
+Per aggiungere o invitare un amministratore:
+
+1. In Admin Console, scegli **[!UICONTROL Utenti]** > **[!UICONTROL Amministratori]**.
+1. Fai clic su **[!UICONTROL Aggiungi amministratore]**.
+1. Immetti un nome o un indirizzo e-mail.
+
+   Puoi cercare utenti esistenti o aggiungere un nuovo utente specificando un indirizzo e-mail valido e compilando le informazioni sullo schermo.
+
+   ![Aggiungi amministratore](assets/admin-console-add-admin.png)
+
+1. Fai clic su **[!UICONTROL Avanti]**. Viene visualizzato un elenco di ruoli di amministratore.
+
+Per assegnare un ruolo di amministratore del supporto a un utente (consentire a un utente di contattare il supporto):
+
+1. Seleziona la **[!UICONTROL Amministratore del supporto]** opzione.
+
+   ![Modifica diritti amministratore](assets/edit-admin-rights.png)
+
+1. Scegliete una delle due opzioni seguenti:
+
+   * Opzione 1: **[!UICONTROL Amministratore del supporto di base]**. Seleziona questa opzione se desideri consentire all’assistenza utente di accedere a tutte le soluzioni (ad eccezione di Marketo).
+   * Opzione 2: **[!UICONTROL Amministratore del supporto del prodotto]**: seleziona questa opzione per il supporto Marketo. Seleziona le istanze di Marketo a cui concedere l’accesso al supporto utente.
+
+   ![Modifica Marketo diritti amministratore](assets/edit-admin-rights-advanced.png)
+
+1. Dopo aver effettuato le selezioni, fai clic su **[!UICONTROL Salva]**.
+
+L’utente riceve un invito e-mail da `message@adobe.com` relativo alle sue nuove autorizzazioni di amministratore.
+
+L’utente deve fare clic su **Inizia** nell’e-mail per partecipare all’organizzazione. Se non si utilizza il link **Inizia** presente nell’invito e-mail, non sarà possibile accedere ad Admin Console.
+
+Durante il processo di accesso, potrebbe venire richiesto di impostare un profilo Adobe, se non se ne possiede già uno. Se gli utenti hanno più profili associati al loro indirizzo e-mail, devono scegliere **Unisciti al team** (se richiesto) e quindi selezionare il profilo associato alla nuova organizzazione.
 
 ### Creare un ticket di supporto in Admin Console
 

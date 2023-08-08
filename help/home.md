@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 78%
+ht-degree: 91%
 
 ---
 
@@ -22,11 +22,11 @@ Stiamo lavorando per migliorare le modalità di interazione con l’Assistenza c
 
 ## Come inviare un ticket di supporto da Admin Console {#submit-ticket}
 
-Per consentirti di inviare un ticket di supporto da [Admin Console](https://adminconsole.adobe.com/), un amministratore di sistema deve averti assegnato il ruolo di Amministratore del supporto. Solo un amministratore di sistema della tua organizzazione può assegnarti questo ruolo. Gli amministratori di prodotti, profili di prodotto e altri non possono assegnare il ruolo di Amministratore del supporto e non hanno accesso all’opzione **[!UICONTROL Crea caso]** che consente di inviare un ticket di supporto. Per ulteriori informazioni, consulta la documentazione dedicata all’[assistenza per clienti Enterprise e Teams](customer-care.md).
+Per consentirti di inviare un ticket di supporto da [Admin Console](https://adminconsole.adobe.com/), un amministratore di sistema deve averti assegnato il ruolo di Amministratore supporto. Solo un amministratore di sistema della tua organizzazione può assegnarti questo ruolo. Gli amministratori di prodotti, profili di prodotto e altri non possono assegnare il ruolo di Amministratore supporto e non hanno accesso all’opzione **[!UICONTROL Crea caso]** che consente di inviare un ticket di supporto. Per ulteriori informazioni, consulta la documentazione dedicata all’[assistenza per clienti Enterprise e Teams](customer-care.md).
 
-### Assegnare il ruolo di Amministratore del supporto
+### Assegnare il ruolo di Amministratore supporto
 
-Il ruolo di Amministratore del supporto è un ruolo di tipo non amministrativo con accesso alle informazioni relative al supporto. Gli amministratori del supporto possono visualizzare, creare e gestire i rapporti sui problemi.
+Il ruolo di Amministratore supporto è un ruolo di tipo non amministrativo con accesso alle informazioni relative al supporto. Gli amministratori del supporto possono visualizzare, creare e gestire i rapporti sui problemi.
 
 Per aggiungere o invitare un amministratore:
 
@@ -34,32 +34,32 @@ Per aggiungere o invitare un amministratore:
 1. Fai clic su **[!UICONTROL Aggiungi amministratore]**.
 1. Immetti un nome o un indirizzo e-mail.
 
-   Puoi cercare utenti esistenti o aggiungere un nuovo utente specificando un indirizzo e-mail valido e compilando le informazioni sullo schermo.
+   È possibile cercare gli utenti esistenti o aggiungere un nuovo utente specificando un indirizzo e-mail valido e compilando le informazioni richieste nella schermata.
 
    ![Aggiungi amministratore](assets/admin-console-add-admin.png)
 
 1. Fai clic su **[!UICONTROL Avanti]**. Viene visualizzato un elenco di ruoli di amministratore.
 
-Per assegnare un ruolo di amministratore del supporto a un utente (consentire a un utente di contattare il supporto):
+Per assegnare a un utente il ruolo di Amministratore supporto (per consentire all’utente di contattare il team di assistenza):
 
-1. Seleziona la **[!UICONTROL Amministratore del supporto]** opzione.
+1. Seleziona l’opzione **[!UICONTROL Amministratore supporto]**.
 
-   ![Modifica diritti amministratore](assets/edit-admin-rights.png)
+   ![Modificare i diritti di amministrazione](assets/edit-admin-rights.png)
 
-1. Scegliete una delle due opzioni seguenti:
+1. Scegli una delle due opzioni seguenti:
 
-   * Opzione 1: **[!UICONTROL Amministratore del supporto di base]**. Seleziona questa opzione se desideri consentire all&#39;assistenza utente l&#39;accesso a tutte le soluzioni (eccetto Marketo Engage).
+   * Opzione 1: **[!UICONTROL Amministratore del supporto base]**. Seleziona questa opzione se desideri consentire all&#39;assistenza utente l&#39;accesso a tutte le soluzioni (eccetto Marketo Engage).
    * Opzione 2: **[!UICONTROL Amministratore del supporto del prodotto]**: seleziona questa opzione per supporto Marketo Engage. Seleziona le istanze di Marketo Engage a cui concedere l’accesso al supporto utente.
 
-   ![Modifica Marketo diritti amministratore](assets/edit-admin-rights-advanced.png)
+   ![Modificare i diritti di amministrazione Marketo](assets/edit-admin-rights-advanced.png)
 
-1. Dopo aver effettuato le selezioni, fai clic su **[!UICONTROL Salva]**.
+1. Dopo aver selezionato l’opzione desiderata, fai clic su **[!UICONTROL Salva]**.
 
 L’utente riceve un invito e-mail da `message@adobe.com` relativo alle sue nuove autorizzazioni di amministratore.
 
 L’utente deve fare clic su **Inizia** nell’e-mail per partecipare all’organizzazione. Se non si utilizza il link **Inizia** presente nell’invito e-mail, non sarà possibile accedere ad Admin Console.
 
-Durante il processo di accesso, potrebbe venire richiesto di impostare un profilo Adobe, se non se ne possiede già uno. Se gli utenti hanno più profili associati al loro indirizzo e-mail, devono scegliere **Unisciti al team** (se richiesto) e quindi selezionare il profilo associato alla nuova organizzazione.
+Durante il processo di accesso, potrebbe venire richiesto di impostare un profilo Adobe, se non se ne possiede già uno. Se l’utente dispone di più profili associati al proprio indirizzo e-mail, dovrà scegliere **Iscriviti al team** (se richiesto) e quindi selezionare il profilo associato alla nuova organizzazione.
 
 ![Conferma diritti amministratore](assets/admin-rights-confirmation.png)
 
@@ -71,7 +71,7 @@ Per creare un ticket in [Admin Console](https://adminconsole.adobe.com/), selezi
 
 >[!TIP]
 >
-> Se non trovi l’opzione **[!UICONTROL Crea caso]** o la scheda **[!UICONTROL Assistenza]**, rivolgiti all’amministratore di sistema e chiedi che ti assegni il ruolo di Amministratore del supporto.
+> Se non trovi l’opzione **[!UICONTROL Crea caso]** o la scheda **[!UICONTROL Assistenza]**, rivolgiti all’amministratore di sistema e chiedi che ti assegni il ruolo di Amministratore supporto.
 
 ![Scheda Assistenza in Admin Console](./assets/Support.png)
 

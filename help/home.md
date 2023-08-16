@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -48,8 +48,8 @@ Per assegnare a un utente il ruolo di Amministratore supporto (per consentire al
 
 1. Scegli una delle due opzioni seguenti:
 
-   * Opzione 1: **[!UICONTROL Amministratore del supporto base]**. Seleziona questa opzione se desideri consentire all&#39;assistenza utente l&#39;accesso a tutte le soluzioni (eccetto Marketo Engage).
-   * Opzione 2: **[!UICONTROL Amministratore del supporto del prodotto]**: seleziona questa opzione per supporto Marketo Engage. Seleziona le istanze di Marketo Engage a cui concedere l’accesso al supporto utente.
+   * Opzione 1: **[!UICONTROL Amministratore del supporto base]**. Seleziona questa opzione per consentire all’utente di accedere all’assistenza per tutte le soluzioni (ad eccezione di Marketo Engage).
+   * Opzione 2: **[!UICONTROL Amministratore del supporto prodotti]**: seleziona questa opzione per il supporto Marketo Engage. Seleziona le istanze di Marketo Engage per le quali vuoi consentire all’utente di accedere all’assistenza.
 
    ![Modificare i diritti di amministrazione Marketo](assets/edit-admin-rights-advanced.png)
 
@@ -61,9 +61,9 @@ L’utente deve fare clic su **Inizia** nell’e-mail per partecipare all’orga
 
 Durante il processo di accesso, potrebbe venire richiesto di impostare un profilo Adobe, se non se ne possiede già uno. Se l’utente dispone di più profili associati al proprio indirizzo e-mail, dovrà scegliere **Iscriviti al team** (se richiesto) e quindi selezionare il profilo associato alla nuova organizzazione.
 
-![Conferma diritti amministratore](assets/admin-rights-confirmation.png)
+![Confermare i diritti di amministrazione](assets/admin-rights-confirmation.png)
 
-Per maggiori dettagli, consulta [modifica ruolo amministratore organizzazione](admin-roles.md#add-enterprise-role) istruzioni nella documentazione sui ruoli amministrativi. Tieni presente che solo un amministratore di sistema della tua organizzazione può assegnarti questo ruolo. Per ulteriori informazioni sulla gerarchia di amministrazione, consulta la documentazione sui [ruoli di amministratore](admin-roles.md).
+Per maggiori dettagli, segui le istruzioni su come [modificare il ruolo di amministratore Enterprise](admin-roles.md#add-enterprise-role), nella documentazione sui ruoli amministrativi. Tieni presente che solo un amministratore di sistema della tua organizzazione può assegnarti questo ruolo. Per ulteriori informazioni sulla gerarchia di amministrazione, consulta la documentazione sui [ruoli di amministratore](admin-roles.md).
 
 ### Creare un ticket di supporto in Admin Console
 

@@ -6,10 +6,10 @@ feature: Support
 sub-product: customer one
 audience: end-user
 user-guide-title: "[!DNL Customer One for Enterprise] Aiuto"
-source-git-commit: 6113bc8b5d371bd3c4169f408d097ef53ccc329d
-workflow-type: ht
-source-wordcount: '20'
-ht-degree: 100%
+source-git-commit: 30dcead5c4ee72d6f17a3779a1777ca8edbd7ad2
+workflow-type: tm+mt
+source-wordcount: '24'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 # [!DNL Customer One for Enterprise] {#using}
 
 + [Introduzione](home.md)
++ [Aggiornamento del numero di telefono del supporto tecnico](phone-numbers.md)
 + [Ruoli amministratore](admin-roles.md)
 + [Contattare l’Assistenza clienti di Adobe](customer-care.md)
 + Documenti di riferimento {#ref-docs}

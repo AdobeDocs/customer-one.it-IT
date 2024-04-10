@@ -1,34 +1,34 @@
 ---
-title: Specifica un numero di telefono del supporto preferito
-description: Aggiornamento per i numeri di telefono del Supporto Adobe. Specificare il numero di telefono del supporto preferito.
+title: Specificare il numero di telefono preferito per l’assistenza
+description: Aggiornamento per i numeri di telefono per l’assistenza Adobe. Specifica il numero di telefono preferito per l’assistenza.
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Specifica un numero di telefono del supporto preferito
+# Specificare il numero di telefono preferito per l’assistenza
 
-Quando ti viene assegnato un ruolo di &quot;Amministratore&quot;, ad esempio &quot;Amministratore del supporto del prodotto&quot;, dovresti ricevere un’e-mail per informarti di disporre dei diritti di &quot;Amministratore&quot; per gestire l’istanza per la quale ti sono stati concessi i diritti di Amministratore.
+Quando ti viene assegnato un ruolo di Amministratore, ad esempio “Amministratore del supporto prodotti”, ti viene inviata un’e-mail per informarti che disponi dei diritti di Amministratore per gestire l’istanza per la quale ti sono stati concessi tali diritti.
 
-L&#39;e-mail contiene ora in rosso il testo riportato di seguito, che spiega come accedere al profilo dell&#39;account e condividere con noi il numero di telefono del servizio di assistenza preferito.
+L&#39;e-mail ora contiene il testo riportato di seguito in rosso, che spiega come passare al profilo del tuo account e comunicarci il numero di telefono preferito da utilizzare per il servizio di assistenza.
 
-![numero di supporto preferito](assets/admin-console-1.png)
+![Numero preferito per l’assistenza](assets/admin-console-1.png)
 
 Per specificare il numero di telefono preferito:
 
-1. Fai clic sul pulsante **Profilo account** collegamento per aprire una nuova finestra per accedere tramite `account.adobe.com`.
+1. Fai clic sul collegamento **Profilo account** per aprire una nuova finestra per accedere utilizzando `account.adobe.com`.
 
-   ![accedi](assets/sign-in.png)
+   ![Accedi](assets/sign-in.png)
 
-1. Segui la procedura di accesso e accedi alla schermata seguente su `account.adobe.com`.
-1. Quindi fai clic sulle schede seguenti Account e sicurezza > Account per visualizzare il campo del numero di telefono dell’assistenza.
-1. Aggiungi qui un numero di telefono da usare per riconoscerti in base alle tue esigenze di supporto.
+1. Segui la procedura di accesso fino ad arrivare alla schermata riportata di seguito in `account.adobe.com`.
+1. Quindi fai clic sulle schede Account e sicurezza > Account (riportate di seguito) per trovare il campo per il numero di telefono di assistenza.
+1. Aggiungi il numero di telefono che ci permetterà di riconoscerti per le tue esigenze di assistenza.
 
-![specifica dettagli](assets/account-info.png)
+![Specifica i dettagli](assets/account-info.png)
 
-![aggiungi numero di telefono](assets/enter-phone-number.png)
+![Aggiungi numero di telefono](assets/enter-phone-number.png)
 
-![risultati](assets/result.png)
+![Risultati](assets/result.png)

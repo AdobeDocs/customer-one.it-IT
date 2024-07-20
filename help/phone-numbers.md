@@ -3,7 +3,7 @@ title: Specificare il numero di telefono preferito per l’assistenza
 description: Aggiornamento per i numeri di telefono per l’assistenza Adobe. Specifica il numero di telefono preferito per l’assistenza.
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 

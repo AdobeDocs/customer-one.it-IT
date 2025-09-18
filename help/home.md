@@ -5,7 +5,7 @@ description: Nuova esperienza di Assistenza clienti Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
+source-git-commit: fda1336b2f33056351984c2ae3dc2059c80ec61d
 workflow-type: ht
 source-wordcount: '860'
 ht-degree: 100%
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## Ticket di assistenza in Experience League
 
-I ticket di assistenza sono ora inviati tramite [Experience League](https://experienceleague.adobe.com/home?lang=it#support). Per sapere come inviare una richiesta di assistenza, consulta la sezione [Come inviare un ticket di supporto da Admin Console](#submit-ticket).
+I ticket di assistenza sono ora inviati tramite [Experience League](https://experienceleague.adobe.com/home?lang=it#support). Per sapere come inviare una richiesta di assistenza, consulta la sezione [Come inviare un ticket di supporto da Admin Console](#create-a-support-ticket-with-experience-league).
 
 Stiamo lavorando per migliorare le modalità di interazione con l’Assistenza clienti Adobe. Per semplificare l’esperienza di accesso all’assistenza clienti, abbiamo deciso di implementare un unico punto di accesso in Experience League. Quando questo portale sarà online, la tua organizzazione potrà accedere facilmente all’Assistenza clienti Adobe, avere un quadro completo di tutte le richieste di supporto per i vari prodotti e richiedere aiuto tramite telefono, web e chat.
 

@@ -5,10 +5,10 @@ description: Nuova esperienza di Assistenza clienti Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: fda1336b2f33056351984c2ae3dc2059c80ec61d
+source-git-commit: 16b947e89ba4fea10e06e275df430d1205937b8c
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 100%
+source-wordcount: '888'
+ht-degree: 96%
 
 ---
 
@@ -84,6 +84,8 @@ La procedura per l’invio dei casi di supporto è ora integrata direttamente co
    * Priorità del caso (Bassa, Media, Alta, Critica)
    * Impatto aziendale
    * Fuso orario del cliente (America, EMEA, APAC)
+
+   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, fare riferimento a [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei piani di successo.
 
 ![Priorità di un ticket in Experience League](./assets/experience-league-ticket-priority.png)
 

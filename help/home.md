@@ -5,10 +5,10 @@ description: Nuova esperienza di Assistenza clienti Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 16b947e89ba4fea10e06e275df430d1205937b8c
+source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 96%
+source-wordcount: '942'
+ht-degree: 84%
 
 ---
 
@@ -71,21 +71,46 @@ Per maggiori dettagli, segui le istruzioni su come [modificare il ruolo di ammin
 
 ### Creare un ticket di supporto in Experience League
 
+>[!NOTE]
+>
+> Prima di inviare un ticket di supporto, è consigliabile verificare le prestazioni, la disponibilità e i problemi relativi alla soluzione del sistema Adobe nel sito [Adobe status](https://status.adobe.com).
+
 La procedura per l’invio dei casi di supporto è ora integrata direttamente con la piattaforma di assistenza Experience League. Si tratta di un portale self-service recentemente rinnovato per offrire maggiore personalizzazione e facilità d’uso ai clienti autorizzati.
 
 1. Per creare un ticket in [Experience League](https://experienceleague.adobe.com/home?lang=it#support), seleziona la scheda **[!UICONTROL Assistenza]** nell’area di navigazione superiore.
    ![Scheda Assistenza in Experience League](./assets/experience-league-support-tab.png)
 1. Dalla pagina home dell’assistenza, puoi passare facilmente ai casi di supporto aperti, registrare un nuovo caso, visualizzare gli articoli di assistenza principali o accedere a ulteriori fonti di apprendimento.
    ![Risorse di assistenza in Experience League](./assets/experience-league-support-resources.png)
-1. Per inviare un caso, seleziona **[!UICONTROL Apri un ticket di supporto]**. In alternativa, puoi selezionare l’opzione **[!UICONTROL Apri ticket]** nel menu della barra laterale. Viene aperta la pagina di creazione di un caso, dove puoi inserire il nome del prodotto (Audience Manager, Campaign, Target, ecc.), nonché il titolo e la descrizione del caso. Per velocizzare la procedura di risoluzione dei problemi, descrivi nel modo più completo possibile il problema riscontrato.
+1. Per inviare un caso, seleziona **[!UICONTROL Apri un ticket di supporto]**. Selezionare anche l&#39;opzione **[!UICONTROL Apri ticket]** nel menu della barra laterale.
+
+
+### Compila il ticket di supporto
+
+1. Dopo aver selezionato **[!UICONTROL Apri un ticket di supporto]**, verrai indirizzato alla pagina di creazione del caso, in cui potrai immettere il nome del tuo prodotto (Audience Manager, Campaign, Target, ecc.), **[!UICONTROL Titolo caso]** e **[!UICONTROL Descrizione caso]**.
+
    ![Ticket aperto in Experience League](./assets/experience-league-open-ticket.png)
-1. Verso la fine del modulo, compila i campi seguenti. Quando selezioni una soluzione, ti viene chiesto quanto segue e alcune soluzioni presentano dei campi aggiuntivi:
+
+   Per accelerare il processo di risoluzione dei problemi, aggiungi le seguenti informazioni nel campo **[!UICONTROL Descrizione del caso]**:
+
+   * Cancella l&#39;informativa sul problema
+   * Passaggi da riprodurre
+   * Dichiarazione sull&#39;impatto aziendale
+   * Si tratta di una nuova implementazione / funzionalità / sviluppo?
+   * Quando ha funzionato il processo?
+   * Risoluzione dei problemi relativi alle azioni intraprese
+   * Dati di registro rilevanti
+   * Numero di versione
+   * Informazioni sulla build (se pertinente)
+   * Identificatori critici
+
+
+1. Quando selezioni una soluzione, ti viene chiesto quanto segue e alcune soluzioni presentano dei campi aggiuntivi:
 
    * Priorità del caso (Bassa, Media, Alta, Critica)
    * Impatto aziendale
    * Fuso orario del cliente (America, EMEA, APAC)
 
-   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, fare riferimento a [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/it/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei piani di successo.
+   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, fare riferimento a [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei piani di successo.
 
 ![Priorità di un ticket in Experience League](./assets/experience-league-ticket-priority.png)
 

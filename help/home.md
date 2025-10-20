@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
 workflow-type: tm+mt
 source-wordcount: '942'
-ht-degree: 84%
+ht-degree: 87%
 
 ---
 
@@ -110,7 +110,7 @@ La procedura per l’invio dei casi di supporto è ora integrata direttamente co
    * Impatto aziendale
    * Fuso orario del cliente (America, EMEA, APAC)
 
-   Per informazioni dettagliate su come la priorità dei casi e l&#39;impatto aziendale influiscono sui tempi di risposta del supporto, fare riferimento a [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/it/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei piani di successo.
+   Per informazioni dettagliate su come la priorità dei casi e l’impatto sul business influiscono sui tempi di risposta del supporto, consulta [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/it/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei Piani Success.
 
 ![Priorità di un ticket in Experience League](./assets/experience-league-ticket-priority.png)
 

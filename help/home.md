@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '942'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Per maggiori dettagli, segui le istruzioni su come [modificare il ruolo di ammin
 
 >[!NOTE]
 >
-> Prima di inviare un ticket di supporto, è consigliabile verificare le prestazioni, la disponibilità e i problemi relativi alla soluzione del sistema Adobe nel sito [Adobe status](https://status.adobe.com).
+> Prima di inviare un ticket di supporto, è consigliabile verificare le prestazioni, la disponibilità e i problemi relativi alla soluzione del sistema Adobe nel sito [Stato di Adobe](https://status.adobe.com/it).
 
 La procedura per l’invio dei casi di supporto è ora integrata direttamente con la piattaforma di assistenza Experience League. Si tratta di un portale self-service recentemente rinnovato per offrire maggiore personalizzazione e facilità d’uso ai clienti autorizzati.
 
@@ -81,23 +81,23 @@ La procedura per l’invio dei casi di supporto è ora integrata direttamente co
    ![Scheda Assistenza in Experience League](./assets/experience-league-support-tab.png)
 1. Dalla pagina home dell’assistenza, puoi passare facilmente ai casi di supporto aperti, registrare un nuovo caso, visualizzare gli articoli di assistenza principali o accedere a ulteriori fonti di apprendimento.
    ![Risorse di assistenza in Experience League](./assets/experience-league-support-resources.png)
-1. Per inviare un caso, seleziona **[!UICONTROL Apri un ticket di supporto]**. Selezionare anche l&#39;opzione **[!UICONTROL Apri ticket]** nel menu della barra laterale.
+1. Per inviare un caso, seleziona **[!UICONTROL Apri un ticket di supporto]**. In alternativa, puoi selezionare l’opzione **[!UICONTROL Apri ticket]** nel menu della barra laterale.
 
 
-### Compila il ticket di supporto
+### Compilare il ticket di supporto
 
-1. Dopo aver selezionato **[!UICONTROL Apri un ticket di supporto]**, verrai indirizzato alla pagina di creazione del caso, in cui potrai immettere il nome del tuo prodotto (Audience Manager, Campaign, Target, ecc.), **[!UICONTROL Titolo caso]** e **[!UICONTROL Descrizione caso]**.
+1. Dopo aver selezionato **[!UICONTROL Apri un ticket di supporto]**, verrà aperta la pagina di creazione di un caso, dove puoi inserire il nome del prodotto (Audience Manager, Campaign, Target, ecc.), nonché il **[!UICONTROL titolo]** e la **[!UICONTROL descrizione del caso]**.
 
    ![Ticket aperto in Experience League](./assets/experience-league-open-ticket.png)
 
    Per accelerare il processo di risoluzione dei problemi, aggiungi le seguenti informazioni nel campo **[!UICONTROL Descrizione del caso]**:
 
-   * Cancella l&#39;informativa sul problema
-   * Passaggi da riprodurre
-   * Dichiarazione sull&#39;impatto aziendale
-   * Si tratta di una nuova implementazione / funzionalità / sviluppo?
-   * Quando ha funzionato il processo?
-   * Risoluzione dei problemi relativi alle azioni intraprese
+   * Cancellare la descrizione del problema
+   * Passaggi da seguire
+   * Descrizione dell’impatto aziendale
+   * Si tratta di una implementazione / una funzione / uno sviluppo nuovi?
+   * Qual è stato il momento in cui il processo ha funzionato?
+   * Risoluzione dei problemi relativi alle procedure effettuate
    * Dati di registro rilevanti
    * Numero di versione
    * Informazioni sulla build (se pertinente)

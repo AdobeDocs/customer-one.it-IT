@@ -4,10 +4,10 @@ description: Prima comunicazione ai clienti per una nuova esperienza di assisten
 hide: true
 hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
-source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
+source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 100%
+source-wordcount: '391'
+ht-degree: 85%
 
 ---
 
@@ -17,7 +17,7 @@ Per servire al meglio i nostri clienti, ci stiamo adoperando per consentire loro
 
 ## Ulteriori informazioni
 
-Nei mesi di febbraio e marzo, Adobe inizierà a configurare i nuovi amministratori di sistema e utenti del servizio di assistenza in questo portale. Se i dati in nostro possesso indicano che al momento sei configurato come amministratore di sistema del servizio di assistenza in Adobe Admin Console oppure il tuo nome è stato indicato nel contratto di acquisto come contatto del cliente di Adobe per l’implementazione di Adobe Campaign e/o Adobe Experience Manager nella tua organizzazione, verrai configurato come amministratore di sistema del servizio di assistenza per la tua organizzazione.
+Nei mesi di febbraio e marzo, Adobe inizierà a configurare i nuovi amministratori di sistema e utenti del servizio di assistenza in questo portale. Se i nostri dati indicano che attualmente agisci come Amministratore di sistema di supporto in Adobe Admin Console - o - il tuo nome era elencato nel contratto di acquisto come contatto del cliente Adobe per la distribuzione di Adobe Campaign e/o Adobe Experience Manager all’interno della tua organizzazione, verrai configurato come Amministratore di sistema di supporto per la tua organizzazione.
 Gli amministratori di sistema del servizio di assistenza fungeranno da super utenti in Admin Console e visualizzeranno le e-mail generate dal sistema ogni volta che viene creato un nuovo utente del servizio di assistenza. Inoltre, potranno:
 
 * Creare e rimuovere utenti del servizio di assistenza nel portale e gestire i ruoli di accesso

@@ -6,10 +6,10 @@ exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
-source-wordcount: 391
-ht-degree: 85%
+source-wordcount: 409
+ht-degree: 86%
 
 ---
 
@@ -19,8 +19,7 @@ Per servire al meglio i nostri clienti, ci stiamo adoperando per consentire loro
 
 ## Ulteriori informazioni
 
-Nei mesi di febbraio e marzo, Adobe inizierà a configurare i nuovi amministratori di sistema e utenti del servizio di assistenza in questo portale. Se i nostri dati indicano che attualmente agisci come Amministratore di sistema di supporto in Adobe Admin Console - o - il tuo nome era elencato nel contratto di acquisto come contatto del cliente Adobe per la distribuzione di Adobe Campaign e/o Adobe Experience Manager all’interno della tua organizzazione, verrai configurato come Amministratore di sistema di supporto per la tua organizzazione.
-Gli amministratori di sistema del servizio di assistenza fungeranno da super utenti in Admin Console e visualizzeranno le e-mail generate dal sistema ogni volta che viene creato un nuovo utente del servizio di assistenza. Inoltre, potranno:
+Nei mesi di febbraio e marzo, Adobe inizierà a configurare i nuovi amministratori di sistema e utenti del servizio di assistenza in questo portale. Se i nostri dati indicano che attualmente agisci come Amministratore di sistema di supporto in Adobe Admin Console - o - il tuo nome era elencato nel contratto di acquisto come contatto del cliente Adobe per la distribuzione di Adobe Campaign e/o Adobe Experience Manager all’interno della tua organizzazione, verrai configurato come Amministratore di sistema di supporto per la tua organizzazione.Gli amministratori di sistema del servizio di assistenza fungeranno da super utenti in Admin Console e visualizzeranno le e-mail generate dal sistema ogni volta che viene creato un nuovo utente del servizio di assistenza. Inoltre, potranno:
 
 * Creare e rimuovere utenti del servizio di assistenza nel portale e gestire i ruoli di accesso
 * Usufruire degli strumenti di gestione delle richieste per gestire più facilmente le richieste di supporto con l’Assistenza clienti Adobe
@@ -50,3 +49,4 @@ L’amministratore di sistema e i contatti del contratto dovranno convalidare gl
 * I clienti inizieranno a utilizzare il nuovo sistema.
 
 Per domande su questa e-mail, contattaci all’indirizzo [customercare@adobe.com](mailto:customercare@adobe.com).
+

@@ -5,9 +5,9 @@ description: Nuova esperienza di Assistenza clienti Adobe
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: ht
-source-wordcount: '942'
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+workflow-type: tm+mt
+source-wordcount: '1006'
 ht-degree: 100%
 
 ---
@@ -78,9 +78,13 @@ Per maggiori dettagli, segui le istruzioni su come [modificare il ruolo di ammin
 La procedura per l’invio dei casi di supporto è ora integrata direttamente con la piattaforma di assistenza Experience League. Si tratta di un portale self-service recentemente rinnovato per offrire maggiore personalizzazione e facilità d’uso ai clienti autorizzati.
 
 1. Per creare un ticket in [Experience League](https://experienceleague.adobe.com/home?lang=it#support), seleziona la scheda **[!UICONTROL Assistenza]** nell’area di navigazione superiore.
+
    ![Scheda Assistenza in Experience League](./assets/experience-league-support-tab.png)
+
 1. Dalla pagina home dell’assistenza, puoi passare facilmente ai casi di supporto aperti, registrare un nuovo caso, visualizzare gli articoli di assistenza principali o accedere a ulteriori fonti di apprendimento.
+
    ![Risorse di assistenza in Experience League](./assets/experience-league-support-resources.png)
+
 1. Per inviare un caso, seleziona **[!UICONTROL Apri un ticket di supporto]**. In alternativa, puoi selezionare l’opzione **[!UICONTROL Apri ticket]** nel menu della barra laterale.
 
 
@@ -112,16 +116,11 @@ La procedura per l’invio dei casi di supporto è ora integrata direttamente co
 
    Per informazioni dettagliate su come la priorità dei casi e l’impatto sul business influiscono sui tempi di risposta del supporto, consulta [Tempi di risposta mirati iniziali per il supporto](https://experienceleague.adobe.com/it/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) nella documentazione relativa alle risorse dei Piani Success.
 
-![Priorità di un ticket in Experience League](./assets/experience-league-ticket-priority.png)
+   ![Priorità di un ticket in Experience League](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > Se non trovi l’opzione **[!UICONTROL Crea caso]** o la scheda **[!UICONTROL Assistenza]**, rivolgiti al tuo amministratore di sistema e chiedi che ti assegni il ruolo di Amministratore supporto.
-
-
-
-
-
 
 
 

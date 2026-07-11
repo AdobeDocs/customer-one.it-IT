@@ -14,7 +14,7 @@ subfeature_v2:
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 1647
 ht-degree: 97%
@@ -121,8 +121,7 @@ Per aggiungere o invitare un amministratore di sistema:
 
 ![immagine amministratore team](assets/teams-admin.png)
 
-Poiché tutti gli utenti di un&#39;organizzazione del team sono utenti con Business ID, ricevono un invito e-mail relativo alle nuove autorizzazioni di amministrazione da `message@adobe.com`.
-Per partecipare all’organizzazione, è necessario fare clic su “Inizia” nell’e-mail.
+Poiché tutti gli utenti di un&#39;organizzazione del team sono utenti con Business ID, ricevono un invito e-mail relativo alle nuove autorizzazioni di amministrazione da `message@adobe.com`.Per partecipare all’organizzazione, è necessario fare clic su “Inizia” nell’e-mail.
 
 Durante il processo di accesso, potrebbe venire richiesto di impostare un profilo Adobe, se non se ne possiede già uno. Se l’utente dispone di più profili associati al proprio indirizzo e-mail, dovrà scegliere “Partecipa al team” (se richiesto) e quindi selezionare il profilo associato alla nuova organizzazione.
 
@@ -271,3 +270,4 @@ Nella tabella seguente sono elencate tutte le autorizzazioni per i diversi tipi 
 | Rimuovere un gruppo utenti da una licenza di prodotto | ✔ | |
 | Visualizzare i membri di un gruppo di utenti | ✔ | ✔ |
 | Visualizzare l’elenco dei gruppi di utenti | ✔ | ✔ |
+

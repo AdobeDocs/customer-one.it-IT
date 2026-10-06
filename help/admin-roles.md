@@ -5,22 +5,27 @@ exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
 subfeature_v2:
   - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
   - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+    internal-label: Organizations, Organizations (AEC)
   - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
+    internal-label: Onboarding
   - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+    internal-label: User management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: Administration
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 1647
+source-wordcount: '1647'
 ht-degree: 97%
-
 ---
-
 # Ruoli di amministrazione
 
 Utilizzando Adobe Admin Console, le organizzazioni possono definire una gerarchia di amministrazione flessibile che consenta di gestire in modo articolato l’accesso e l’utilizzo dei prodotti Adobe. Uno o più amministratori di sistema, abilitati durante il processo di onboarding dell’azienda, occupano il livello di gerarchia più elevato. Gli amministratori di sistema possono delegare alcune responsabilità ad altri amministratori, pur mantenendo il controllo complessivo.
@@ -39,7 +44,7 @@ La gerarchia di amministrazione può essere utilizzata per soddisfare specifici 
 
 >[!NOTE]
 >
->La gerarchia di amministrazione non è applicabili ai clienti Team. I clienti Team hanno un solo ruolo di **amministratore di sistema**. Il titolare del contratto (_precedentemente indicato come **amministratore principale**&#x200B;_) è l’amministratore di sistema che ha accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il titolare del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente indicato come **amministratore secondario**&#x200B;_) come titolare del contratto.
+>La gerarchia di amministrazione non è applicabili ai clienti Team. I clienti Team hanno un solo ruolo di **amministratore di sistema**. Il titolare del contratto (_precedentemente indicato come **amministratore principale**_) è l’amministratore di sistema che ha accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il titolare del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente indicato come **amministratore secondario**_) come titolare del contratto.
 
 ![immagine amministratore](assets/storage_admin.png)
 
@@ -121,7 +126,8 @@ Per aggiungere o invitare un amministratore di sistema:
 
 ![immagine amministratore team](assets/teams-admin.png)
 
-Poiché tutti gli utenti di un&#39;organizzazione del team sono utenti con Business ID, ricevono un invito e-mail relativo alle nuove autorizzazioni di amministrazione da `message@adobe.com`.Per partecipare all’organizzazione, è necessario fare clic su “Inizia” nell’e-mail.
+Poiché tutti gli utenti di un&#39;organizzazione del team sono utenti con Business ID, ricevono un invito e-mail relativo alle nuove autorizzazioni di amministrazione da `message@adobe.com`.
+Per partecipare all’organizzazione, è necessario fare clic su “Inizia” nell’e-mail.
 
 Durante il processo di accesso, potrebbe venire richiesto di impostare un profilo Adobe, se non se ne possiede già uno. Se l’utente dispone di più profili associati al proprio indirizzo e-mail, dovrà scegliere “Partecipa al team” (se richiesto) e quindi selezionare il profilo associato alla nuova organizzazione.
 

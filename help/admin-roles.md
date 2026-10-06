@@ -44,7 +44,7 @@ La gerarchia di amministrazione può essere utilizzata per soddisfare specifici 
 
 >[!NOTE]
 >
->La gerarchia di amministrazione non è applicabili ai clienti Team. I clienti Team hanno un solo ruolo di **amministratore di sistema**. Il titolare del contratto (_precedentemente indicato come **amministratore principale**_) è l’amministratore di sistema che ha accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il titolare del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente indicato come **amministratore secondario**_) come titolare del contratto.
+>La gerarchia di amministrazione non è applicabili ai clienti Team. I clienti Team hanno un solo ruolo di **amministratore di sistema**. Il titolare del contratto (_precedentemente indicato come **amministratore principale**&#x200B;_) è l’amministratore di sistema che ha accesso ai dettagli del contratto e alla cronologia di fatturazione. Se sei il titolare del contratto corrente, puoi nominare un amministratore di sistema esistente (_ precedentemente indicato come **amministratore secondario**&#x200B;_) come titolare del contratto.
 
 ![immagine amministratore](assets/storage_admin.png)
 
